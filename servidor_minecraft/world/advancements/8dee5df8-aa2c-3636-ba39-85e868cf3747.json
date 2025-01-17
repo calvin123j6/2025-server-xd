@@ -878,6 +878,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-01-17 02:42:10 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_ice_dragon": "2025-01-17 02:28:18 +0000"
