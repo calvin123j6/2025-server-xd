@@ -14174,3 +14174,49 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [17Jan2025 18:30:05.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> estoy ya en otra aldea xddd
 [17Jan2025 18:30:11.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> con 3 islas del celo
 [17Jan2025 18:30:15.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> cielo
+[17Jan2025 18:30:45.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1377, y=63, z=1881} BlockPos{x=-1377, y=64, z=1882}
+[17Jan2025 18:30:45.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1377, y=63, z=1881} BlockPos{x=-1377, y=64, z=1882}
+[17Jan2025 18:31:20.535] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lindsay'/22618, l='ServerLevel[world]', x=-1550.38, y=102.00, z=1745.44] died, message: 'Lindsay froze to death'
+[17Jan2025 18:31:20.535] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lindsay'/22618, l='ServerLevel[world]', x=-1550.38, y=102.00, z=1745.44] died: Lindsay froze to death
+[17Jan2025 18:31:30.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> finalmente carne de zombi sin pestilencia
+[17Jan2025 18:32:05.542] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Michael'/22631, l='ServerLevel[world]', x=-1565.50, y=91.04, z=1800.30] died: Michael froze to death
+[17Jan2025 18:32:05.653] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Sunshine'/22657, l='ServerLevel[world]', x=-1527.70, y=92.00, z=1737.53] died: Sunshine froze to death
+[17Jan2025 18:32:15.543] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Roland'/22630, l='ServerLevel[world]', x=-1575.30, y=98.28, z=1801.50] died, message: 'Roland froze to death'
+[17Jan2025 18:32:15.543] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Roland'/22630, l='ServerLevel[world]', x=-1575.30, y=98.28, z=1801.50] died: Roland froze to death
+[17Jan2025 18:32:49.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Brice'/22556, l='ServerLevel[world]', x=-1544.50, y=94.00, z=1761.70] died: Brice froze to death
+[17Jan2025 18:33:17.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Darrin'/22607, l='ServerLevel[world]', x=-1589.40, y=99.00, z=1787.37] died: Darrin froze to death
+[17Jan2025 18:34:06.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> a mimir
+[17Jan2025 18:34:18.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> estoy llendo en caballo
+[17Jan2025 18:34:18.339] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kayce'/22651, l='ServerLevel[world]', x=-1576.30, y=102.00, z=1769.50] died, message: 'Kayce froze to death'
+[17Jan2025 18:34:18.340] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kayce'/22651, l='ServerLevel[world]', x=-1576.30, y=102.00, z=1769.50] died: Kayce froze to death
+[17Jan2025 18:34:28.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> duerme pe xdd
+[17Jan2025 18:34:42.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> finalmente capucha de lana
+[17Jan2025 18:34:46.508] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Sherika'/22619, l='ServerLevel[world]', x=-1535.50, y=92.28, z=1727.70] died: Sherika froze to death
+[17Jan2025 18:34:47.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Marica'/22617, l='ServerLevel[world]', x=-1495.70, y=68.00, z=1773.50] died, message: 'Marica froze to death'
+[17Jan2025 18:34:47.145] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Marica'/22617, l='ServerLevel[world]', x=-1495.70, y=68.00, z=1773.50] died: Marica froze to death
+[17Jan2025 18:36:11.201] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Larue'/22600, l='ServerLevel[world]', x=-1568.70, y=91.04, z=1796.52] died: Larue froze to death
+[17Jan2025 18:36:27.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> me lleva la capcuha casi que no sirve para nada
+[17Jan2025 18:36:52.347] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Saul'/22601, l='ServerLevel[world]', x=-1573.50, y=96.00, z=1807.30] died, message: 'Saul froze to death'
+[17Jan2025 18:36:52.347] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Saul'/22601, l='ServerLevel[world]', x=-1573.50, y=96.00, z=1807.30] died: Saul froze to death
+[17Jan2025 18:36:53.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Lino'/22627, l='ServerLevel[world]', x=-1579.69, y=97.39, z=1804.47] died: Lino froze to death
+[17Jan2025 18:37:26.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Bud'/22462, l='ServerLevel[world]', x=-1515.30, y=75.16, z=1791.50] died, message: 'Bud froze to death'
+[17Jan2025 18:37:26.299] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Bud'/22462, l='ServerLevel[world]', x=-1515.30, y=75.16, z=1791.50] died: Bud froze to death
+[17Jan2025 18:37:44.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Jos3enriq) moved wrongly! 0.2855155285305955
+[17Jan2025 18:37:44.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Jos3enriq) moved wrongly! 0.7715722532801692
+[17Jan2025 18:37:44.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Jos3enriq) moved wrongly! 1.2578592583661248
+[17Jan2025 18:37:44.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Jos3enriq) moved wrongly! 1.744269481868855
+[17Jan2025 18:37:49.146] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mario'/22615, l='ServerLevel[world]', x=-1534.50, y=93.28, z=1721.70] died, message: 'Mario froze to death'
+[17Jan2025 18:37:49.146] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mario'/22615, l='ServerLevel[world]', x=-1534.50, y=93.28, z=1721.70] died: Mario froze to death
+[17Jan2025 18:38:43.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> pasa coord
+[17Jan2025 18:38:53.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> -1390 60 1883
+[17Jan2025 18:39:18.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Jos3enriq) moved too quickly! 3.349293804755689,0.0,9.861300976909206
+[17Jan2025 18:39:18.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Jos3enriq) moved too quickly! 3.5017079202957575,0.0,10.267898795602605
+[17Jan2025 18:39:18.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Jos3enriq) moved too quickly! 3.655555106326574,0.0,10.67394864559401
+[17Jan2025 18:39:26.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> hay aldea y 2 islas
+[17Jan2025 18:39:26.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17Jan2025 18:39:52.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Van'/22628, l='ServerLevel[world]', x=-1579.50, y=96.00, z=1811.70] died, message: 'Van froze to death'
+[17Jan2025 18:39:52.947] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Van'/22628, l='ServerLevel[world]', x=-1579.50, y=96.00, z=1811.70] died: Van froze to death
+[17Jan2025 18:40:09.951] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[17Jan2025 18:40:09.951] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[17Jan2025 18:40:09.952] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[17Jan2025 18:40:09.952] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
