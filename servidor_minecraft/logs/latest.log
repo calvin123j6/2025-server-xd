@@ -14425,3 +14425,79 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [17Jan2025 22:16:27.203] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/15928, l='ServerLevel[world]', x=-1192.61, y=5.17, z=2870.05]
 [17Jan2025 22:16:27.203] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/15929, l='ServerLevel[world]', x=-1192.95, y=4.27, z=2874.12]
 [17Jan2025 22:19:49.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
+[17Jan2025 22:22:09.103] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=108, y=-12, z=-77}
+[17Jan2025 22:22:09.104] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=109, y=-12, z=-78}
+[17Jan2025 22:22:09.104] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=108, y=-12, z=-79}
+[17Jan2025 22:22:09.104] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=107, y=-12, z=-78}
+[17Jan2025 22:22:30.551] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jan2025 22:22:30.551] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[17Jan2025 22:23:02.180] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/22588, l='ServerLevel[world]', x=-681.50, y=56.00, z=2765.50]
+[17Jan2025 22:23:36.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: You logged in from another location
+[17Jan2025 22:23:36.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[17Jan2025 22:23:36.185] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.15.68.150:53125] logged in with entity id 22946 at (-615.8760812969741, 65.6281999805212, 2659.3739804192755)
+[17Jan2025 22:23:36.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[17Jan2025 22:23:36.307] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[17Jan2025 22:23:52.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17Jan2025 22:26:25.285] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Alessandra'/21512, l='ServerLevel[world]', x=-693.70, y=63.00, z=2475.30] died: Alessandra was slain by Door Knight
+[17Jan2025 22:30:07.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Hunter
+[17Jan2025 22:32:13.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Grizzly Bear
+[17Jan2025 22:32:40.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Hunter
+[17Jan2025 22:32:41.515] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Gavin'/25240, l='ServerLevel[world]', x=-814.68, y=64.00, z=2466.73] died: Gavin was turned to ice by Ice Dragon
+[17Jan2025 22:32:46.805] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Bobbie'/25270, l='ServerLevel[world]', x=-816.48, y=66.48, z=2468.77] died: Bobbie was slain by Ice Dragon
+[17Jan2025 22:32:53.054] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jay'/25399, l='ServerLevel[world]', x=-820.24, y=67.83, z=2461.23] died, message: 'Jay was slain by Ice Dragon'
+[17Jan2025 22:32:53.055] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jay'/25399, l='ServerLevel[world]', x=-820.24, y=67.83, z=2461.23] died: Jay was slain by Ice Dragon
+[17Jan2025 22:32:57.255] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Lauretta'/25241, l='ServerLevel[world]', x=-819.30, y=64.00, z=2463.50] died: Lauretta was slain by Ice Dragon
+[17Jan2025 22:33:00.754] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Simonne'/25402, l='ServerLevel[world]', x=-835.28, y=64.00, z=2464.36] died, message: 'Simonne was slain by Ice Dragon'
+[17Jan2025 22:33:00.754] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Simonne'/25402, l='ServerLevel[world]', x=-835.28, y=64.00, z=2464.36] died: Simonne was slain by Ice Dragon
+[17Jan2025 22:33:16.447] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Glenn'/25404, l='ServerLevel[world]', x=-793.61, y=65.00, z=2466.38] died, message: 'Glenn was turned to ice by Ice Dragon'
+[17Jan2025 22:33:16.448] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Glenn'/25404, l='ServerLevel[world]', x=-793.61, y=65.00, z=2466.38] died: Glenn was turned to ice by Ice Dragon
+[17Jan2025 22:33:28.252] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Jeremy'/25242, l='ServerLevel[world]', x=-780.36, y=64.00, z=2478.45] died: Jeremy was turned to ice by Ice Dragon
+[17Jan2025 22:33:36.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Dannie'/25372, l='ServerLevel[world]', x=-769.46, y=64.00, z=2473.38] died: Dannie was frozen by Ice Dragon
+[17Jan2025 22:34:06.963] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Lyndsey'/25403, l='ServerLevel[world]', x=-787.46, y=65.00, z=2473.47] died: Lyndsey was frozen by Ice Dragon
+[17Jan2025 22:34:09.159] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Andre'/25276, l='ServerLevel[world]', x=-777.30, y=61.00, z=2449.30] died: Andre was turned to ice by Ice Dragon
+[17Jan2025 22:34:26.896] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Belva'/25382, l='ServerLevel[world]', x=-760.97, y=66.00, z=2475.87] died, message: 'Belva was frozen by Ice Dragon'
+[17Jan2025 22:34:26.896] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Belva'/25382, l='ServerLevel[world]', x=-760.97, y=66.00, z=2475.87] died: Belva was frozen by Ice Dragon
+[17Jan2025 22:34:29.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Alton'/25249, l='ServerLevel[world]', x=-758.84, y=64.00, z=2480.84] died, message: 'Alton was frozen by Ice Dragon'
+[17Jan2025 22:34:29.860] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Alton'/25249, l='ServerLevel[world]', x=-758.84, y=64.00, z=2480.84] died: Alton was turned to ice by Ice Dragon
+[17Jan2025 22:35:37.347] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Marni'/25480, l='ServerLevel[world]', x=-827.15, y=63.00, z=2426.75] died, message: 'Marni was slain by Ice Dragon'
+[17Jan2025 22:35:37.347] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Marni'/25480, l='ServerLevel[world]', x=-827.15, y=63.00, z=2426.75] died: Marni was slain by Ice Dragon
+[17Jan2025 22:35:57.096] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Katharine'/25487, l='ServerLevel[world]', x=-814.73, y=64.54, z=2446.98] died, message: 'Katharine was slain by Ice Dragon'
+[17Jan2025 22:35:57.097] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Katharine'/25487, l='ServerLevel[world]', x=-814.73, y=64.54, z=2446.98] died: Katharine was slain by Ice Dragon
+[17Jan2025 22:38:01.201] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Mariano'/25244, l='ServerLevel[world]', x=-754.37, y=64.59, z=2503.24] died: Mariano was frozen by Ice Dragon
+[17Jan2025 22:38:07.545] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Herb'/25216, l='ServerLevel[world]', x=-745.38, y=66.00, z=2515.04] died, message: 'Herb was frozen by Ice Dragon'
+[17Jan2025 22:38:07.545] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Herb'/25216, l='ServerLevel[world]', x=-745.38, y=66.00, z=2515.04] died: Herb was turned to ice by Ice Dragon
+[17Jan2025 22:38:09.556] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Stuart'/25171, l='ServerLevel[world]', x=-745.70, y=66.00, z=2514.48] died, message: 'Stuart was frozen by Ice Dragon'
+[17Jan2025 22:38:09.556] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Stuart'/25171, l='ServerLevel[world]', x=-745.70, y=66.00, z=2514.48] died: Stuart was frozen by Ice Dragon
+[17Jan2025 22:38:19.900] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Tereasa'/25288, l='ServerLevel[world]', x=-742.08, y=65.00, z=2509.61] died: Tereasa was turned to ice by Ice Dragon
+[17Jan2025 22:41:29.772] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[17Jan2025 22:41:29.772] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[17Jan2025 22:41:29.773] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[17Jan2025 22:41:29.773] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[17Jan2025 22:41:29.773] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[17Jan2025 22:41:29.773] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[17Jan2025 22:41:29.774] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[17Jan2025 22:41:29.774] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[17Jan2025 22:41:29.969] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[17Jan2025 22:42:51.018] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-73, y=44, z=2455}
+[17Jan2025 22:43:04.908] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Jan2025 22:43:04.908] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[17Jan2025 22:43:04.908] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Jan2025 22:43:04.908] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Jan2025 22:43:04.908] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Jan2025 22:43:31.620] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[17Jan2025 22:45:40.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was turned into KFC by Fire Dragon
+[17Jan2025 22:45:46.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was turned into KFC by Fire Dragon
+[17Jan2025 22:47:02.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17Jan2025 22:48:53.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shirl'/44574, l='ServerLevel[world]', x=-453.52, y=69.00, z=2286.60] died, message: 'Shirl was turned into KFC by Fire Dragon'
+[17Jan2025 22:48:53.466] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Shirl'/44574, l='ServerLevel[world]', x=-453.52, y=69.00, z=2286.60] died: Shirl was turned into KFC by Fire Dragon
+[17Jan2025 22:50:00.765] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[17Jan2025 22:50:00.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[17Jan2025 22:50:34.480] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/47189, l='ServerLevel[world]', x=-270.50, y=61.00, z=2301.50]
+[17Jan2025 22:50:38.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[17Jan2025 22:50:38.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[17Jan2025 22:50:38.061] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[17Jan2025 22:50:38.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Salina'/44644, l='ServerLevel[world]', x=-460.30, y=68.00, z=2285.50] died, message: 'Salina was slain by Fire Dragon'
+[17Jan2025 22:50:38.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Salina'/44644, l='ServerLevel[world]', x=-460.30, y=68.00, z=2285.50] died: Salina was slain by Fire Dragon
+[17Jan2025 22:50:40.280] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/47227, l='ServerLevel[world]', x=-269.50, y=61.00, z=2303.50]
+[17Jan2025 22:51:18.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Wilted
+[17Jan2025 22:51:43.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Wilted
