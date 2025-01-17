@@ -14220,3 +14220,119 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [17Jan2025 18:40:09.951] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
 [17Jan2025 18:40:09.952] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
 [17Jan2025 18:40:09.952] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[17Jan2025 18:40:45.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[17Jan2025 18:41:34.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> ballesta para leo
+[17Jan2025 18:43:22.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> llegaste?
+[17Jan2025 18:43:52.643] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1728, y=56, z=2130} but found not block entity block Block{minecraft:air} at location
+[17Jan2025 18:43:52.643] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1728, y=56, z=2130}
+[17Jan2025 18:43:52.644] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1728, y=56, z=2128} but found not block entity block Block{minecraft:air} at location
+[17Jan2025 18:43:52.644] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1728, y=56, z=2128}
+[17Jan2025 18:43:52.646] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1742, y=56, z=2143} but found not block entity block Block{minecraft:air} at location
+[17Jan2025 18:43:52.646] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1742, y=56, z=2143}
+[17Jan2025 18:43:52.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1744, y=56, z=2143} but found not block entity block Block{minecraft:air} at location
+[17Jan2025 18:43:52.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1744, y=56, z=2143}
+[17Jan2025 18:43:52.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1742, y=56, z=2141} but found not block entity block Block{minecraft:air} at location
+[17Jan2025 18:43:52.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1742, y=56, z=2141}
+[17Jan2025 18:43:52.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1744, y=56, z=2141} but found not block entity block Block{minecraft:air} at location
+[17Jan2025 18:43:52.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1744, y=56, z=2141}
+[17Jan2025 18:43:52.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1742, y=56, z=2130} but found not block entity block Block{minecraft:air} at location
+[17Jan2025 18:43:52.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1742, y=56, z=2130}
+[17Jan2025 18:43:52.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1744, y=56, z=2130} but found not block entity block Block{minecraft:air} at location
+[17Jan2025 18:43:52.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1744, y=56, z=2130}
+[17Jan2025 18:43:52.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1742, y=56, z=2128} but found not block entity block Block{minecraft:air} at location
+[17Jan2025 18:43:52.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1742, y=56, z=2128}
+[17Jan2025 18:43:52.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1744, y=56, z=2128} but found not block entity block Block{minecraft:air} at location
+[17Jan2025 18:43:52.647] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1744, y=56, z=2128}
+[17Jan2025 18:44:38.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> mas ballestas
+[17Jan2025 18:44:39.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> para leo
+[17Jan2025 18:44:42.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> XD
+[17Jan2025 18:44:54.341] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Pierre'/22746, l='ServerLevel[world]', x=-1576.51, y=102.00, z=1769.70] died, message: 'Pierre froze to death'
+[17Jan2025 18:44:54.341] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Pierre'/22746, l='ServerLevel[world]', x=-1576.51, y=102.00, z=1769.70] died: Pierre froze to death
+[17Jan2025 18:44:58.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> aqui
+[17Jan2025 18:45:08.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> hay base
+[17Jan2025 18:45:12.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> DONDE
+[17Jan2025 18:45:20.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> donde estabamo
+[17Jan2025 18:45:34.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> donde
+[17Jan2025 18:45:36.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> estas
+[17Jan2025 18:46:40.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> con la armadura de lana ya es otra cosa
+[17Jan2025 18:46:43.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> B)
+[17Jan2025 18:47:00.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> quiero mas hilo
+[17Jan2025 18:48:25.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> necesito espada
+[17Jan2025 18:48:36.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> hay
+[17Jan2025 18:48:38.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> hierro
+[17Jan2025 18:48:58.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> mejor dormir
+[17Jan2025 18:49:00.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[17Jan2025 18:49:00.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[17Jan2025 18:49:00.663] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Jan2025 18:49:32.337] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:54665] logged in with entity id 37883 at (-1390.605907166246, 58.0, 1885.300000011921)
+[17Jan2025 18:49:32.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[17Jan2025 18:49:32.466] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[17Jan2025 18:49:53.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> donde estas
+[17Jan2025 18:49:56.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> sali
+[17Jan2025 18:50:26.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> ya fuiste ala aldea de nieve?
+[17Jan2025 18:50:35.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> solo al inicio
+[17Jan2025 18:51:05.008] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Christopher'/22626, l='ServerLevel[world]', x=-1551.30, y=97.28, z=1767.49] died: Christopher froze to death
+[17Jan2025 18:51:23.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> a cada rato me congelo
+[17Jan2025 18:52:35.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> habia 1 diamante
+[17Jan2025 18:52:38.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> en la herreria xd
+[17Jan2025 18:52:45.641] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Bethany'/22557, l='ServerLevel[world]', x=-1547.50, y=95.00, z=1767.70] died, message: 'Bethany froze to death'
+[17Jan2025 18:52:45.641] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Bethany'/22557, l='ServerLevel[world]', x=-1547.50, y=95.00, z=1767.70] died: Bethany froze to death
+[17Jan2025 18:55:29.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> subimos?
+[17Jan2025 18:55:45.168] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Jan2025 18:55:45.168] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[17Jan2025 18:55:45.168] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Jan2025 18:55:45.169] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Jan2025 18:55:45.169] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[17Jan2025 18:55:45.169] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[17Jan2025 18:55:45.169] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[17Jan2025 18:55:45.169] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[17Jan2025 18:55:45.169] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[17Jan2025 18:56:03.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> go?
+[17Jan2025 18:56:09.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> hay bloques?
+[17Jan2025 18:56:15.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> yo tengo
+[17Jan2025 18:56:19.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> go
+[17Jan2025 18:56:23.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> voy a traer agua primero
+[17Jan2025 18:56:54.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> finalmente
+[17Jan2025 18:56:59.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> no se crashea a cada rato
+[17Jan2025 18:57:01.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> por el server
+[17Jan2025 18:57:01.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> xd
+[17Jan2025 18:57:05.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> XD
+[17Jan2025 18:57:35.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> ahora vuelvo
+[17Jan2025 18:57:37.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[17Jan2025 18:57:37.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[17Jan2025 19:02:22.532] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:35089] logged in with entity id 42572 at (-1391.236405411087, 58.0, 1885.3409472025983)
+[17Jan2025 19:02:22.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[17Jan2025 19:02:22.603] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[17Jan2025 19:02:45.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> subiste?
+[17Jan2025 19:02:50.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> es de nochhe xd
+[17Jan2025 19:02:52.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> NO
+[17Jan2025 19:03:02.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> es luna azul
+[17Jan2025 19:03:03.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> porque a mi siempre me sale el personaje n
+[17Jan2025 19:03:05.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> encontre 2 diamantes
+[17Jan2025 19:03:05.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> xd
+[17Jan2025 19:03:17.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> XD
+[17Jan2025 19:03:44.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> donde encontraaste
+[17Jan2025 19:03:52.484] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Chester'/22666, l='ServerLevel[world]', x=-1562.30, y=99.00, z=1756.30] died: Chester was pierced by Necromancer's icicle
+[17Jan2025 19:03:52.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> EN CONFRES RANDOM
+[17Jan2025 19:04:06.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> saldria pero necesito pechera de landa todavi
+[17Jan2025 19:04:10.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> aunque ya busque mas y parece todo luteado
+[17Jan2025 19:04:13.322] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Jin'/22658, l='ServerLevel[world]', x=-1567.50, y=98.00, z=1766.70] died: Jin was mauled by Necromancer's undead
+[17Jan2025 19:04:19.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> escuchaste esooooo?
+[17Jan2025 19:04:24.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> no
+[17Jan2025 19:04:30.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> sono un cuerno maldeano
+[17Jan2025 19:04:36.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> xdddddddd
+[17Jan2025 19:04:39.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> escapa de ahi esponja
+[17Jan2025 19:04:51.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> mejor dormimos xdd
+[17Jan2025 19:04:55.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> todo esta looteado
+[17Jan2025 19:05:15.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> voy a subir
+[17Jan2025 19:05:21.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> okey
+[17Jan2025 19:06:33.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> donde fuiste xdd
+[17Jan2025 19:06:43.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> botella tienes
+[17Jan2025 19:06:46.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> si
+[17Jan2025 19:07:02.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 fell from a high place
+[17Jan2025 19:07:05.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> xddd
+[17Jan2025 19:07:57.494] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dennise'/22632, l='ServerLevel[world]', x=-1576.50, y=104.00, z=1748.70] died, message: 'Dennise froze to death'
+[17Jan2025 19:07:57.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Dennise'/22632, l='ServerLevel[world]', x=-1576.50, y=104.00, z=1748.70] died: Dennise froze to death
+[17Jan2025 19:08:37.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> mi lava
+[17Jan2025 19:10:01.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> ya subimos
+[17Jan2025 19:10:44.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> ven a la casa mas alta
