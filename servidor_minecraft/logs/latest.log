@@ -14154,3 +14154,23 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [17Jan2025 18:19:49.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> ahora vuelvo
 [17Jan2025 18:19:50.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
 [17Jan2025 18:19:50.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[17Jan2025 18:28:43.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:38913] logged in with entity id 22201 at (-1385.699999988079, 60.0, 1894.300000011921)
+[17Jan2025 18:28:43.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[17Jan2025 18:28:43.867] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[17Jan2025 18:29:04.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> ya es dia
+[17Jan2025 18:29:08.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> si
+[17Jan2025 18:29:10.512] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Archie'/22558, l='ServerLevel[world]', x=-1484.17, y=69.00, z=1774.50] died: Archie burned to death
+[17Jan2025 18:29:23.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> no encuentro ovejas xdxd
+[17Jan2025 18:29:27.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> ven
+[17Jan2025 18:29:31.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> en el camino hay
+[17Jan2025 18:29:34.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> okey
+[17Jan2025 18:29:37.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> encontre zorros blancos xd
+[17Jan2025 18:29:41.198] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Taren'/22616, l='ServerLevel[world]', x=-1502.70, y=80.16, z=1738.50] died, message: 'Taren froze to death'
+[17Jan2025 18:29:41.198] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Taren'/22616, l='ServerLevel[world]', x=-1502.70, y=80.16, z=1738.50] died: Taren froze to death
+[17Jan2025 18:29:45.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> a matarlos
+[17Jan2025 18:29:49.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Darlene'/22650, l='ServerLevel[world]', x=-1569.50, y=97.28, z=1772.30] died, message: 'Darlene froze to death'
+[17Jan2025 18:29:49.441] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Darlene'/22650, l='ServerLevel[world]', x=-1569.50, y=97.28, z=1772.30] died: Darlene froze to death
+[17Jan2025 18:30:05.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Turkey
+[17Jan2025 18:30:05.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> estoy ya en otra aldea xddd
+[17Jan2025 18:30:11.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> con 3 islas del celo
+[17Jan2025 18:30:15.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> cielo
