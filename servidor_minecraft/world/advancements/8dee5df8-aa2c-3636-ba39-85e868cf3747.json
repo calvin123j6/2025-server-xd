@@ -294,7 +294,10 @@
       "minecraft:forest": "2025-01-07 23:32:08 +0000",
       "minecraft:ice_spikes": "2025-01-17 01:14:58 +0000",
       "autumnity:autumnity:maple_forest": "2025-01-10 02:13:34 +0000",
+      "minecraft:frozen_ocean": "2025-01-17 02:34:11 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-17 02:34:26 +0000",
       "minecraft:ocean": "2025-01-07 23:15:47 +0000",
+      "minecraft:snowy_beach": "2025-01-17 02:35:20 +0000",
       "minecraft:flower_forest": "2025-01-09 23:21:16 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-17 02:05:10 +0000",
       "minecraft:meadow": "2025-01-13 00:04:07 +0000",
@@ -866,6 +869,18 @@
   "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
     "criteria": {
       "walk_on_powder_snow_with_leather_boots": "2025-01-17 00:39:28 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-01-17 02:34:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-01-17 02:28:18 +0000"
     },
     "done": true
   },
