@@ -15380,3 +15380,103 @@ java.lang.IllegalStateException: onTrackingStart called during navigation iterat
 [17Jan2025 21:20:42.806] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/71746, l='ServerLevel[world]', x=-1099.50, y=55.00, z=2745.50]
 [17Jan2025 21:20:51.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [17Jan2025 21:20:53.197] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[17Jan2025 21:21:08.891] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[17Jan2025 21:21:11.369] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/72397, l='ServerLevel[world]', x=-1100.50, y=55.00, z=2745.50]
+[17Jan2025 21:21:11.870] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/72398, l='ServerLevel[world]', x=-986.50, y=56.00, z=2773.50]
+[17Jan2025 21:21:15.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9739ms or 194 ticks behind
+[17Jan2025 21:21:17.674] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/72436, l='ServerLevel[world]', x=-987.50, y=56.00, z=2772.50]
+[17Jan2025 21:21:21.267] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/72515, l='ServerLevel[world]', x=-1099.50, y=55.00, z=2747.50]
+[17Jan2025 21:21:21.936] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/72524, l='ServerLevel[world]', x=-1099.50, y=55.00, z=2747.50]
+[17Jan2025 21:21:32.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has completed the challenge [Free Willy]
+[17Jan2025 21:21:35.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4588ms or 91 ticks behind
+[17Jan2025 21:21:53.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2849ms or 56 ticks behind
+[17Jan2025 21:22:11.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3469ms or 69 ticks behind
+[17Jan2025 21:22:31.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5434ms or 108 ticks behind
+[17Jan2025 21:22:51.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4858ms or 97 ticks behind
+[17Jan2025 21:23:09.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2809ms or 56 ticks behind
+[17Jan2025 21:24:10.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved too quickly! -6.797316345354375,0.12129684053920187,-7.722924875780791
+[17Jan2025 21:24:10.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[17Jan2025 21:28:27.249] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[17Jan2025 21:28:27.249] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[17Jan2025 21:28:27.251] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[17Jan2025 21:28:27.251] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[17Jan2025 21:28:27.251] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[17Jan2025 21:28:28.660] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[17Jan2025 21:28:28.661] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[17Jan2025 21:28:28.661] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[17Jan2025 21:28:28.661] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[17Jan2025 21:28:36.037] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[17Jan2025 21:28:36.039] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[17Jan2025 21:29:36.851] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=202, y=47, z=211}
+[17Jan2025 21:33:38.401] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[17Jan2025 21:33:38.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[17Jan2025 21:33:53.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.15.68.150:36535] logged in with entity id 80814 at (-1122.699999988079, 65.0, 2648.699999988079)
+[17Jan2025 21:33:53.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[17Jan2025 21:33:53.831] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[17Jan2025 21:34:38.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Hunter
+[17Jan2025 21:36:00.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[17Jan2025 21:36:17.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2246ms or 44 ticks behind
+[17Jan2025 21:36:35.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17Jan2025 21:36:44.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was frozen by Ice Dragon
+[17Jan2025 21:38:28.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[17Jan2025 21:38:46.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3194ms or 63 ticks behind
+[17Jan2025 21:38:52.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq froze to death
+[17Jan2025 21:40:08.893] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Jesusa'/86084, l='ServerLevel[world]', x=-1570.50, y=74.00, z=2574.30] died: Jesusa discovered the floor was lava
+[17Jan2025 21:44:41.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Sea? Not a Problem]
+[17Jan2025 21:45:39.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[17Jan2025 21:45:39.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[17Jan2025 21:45:50.216] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:58829] logged in with entity id 89248 at (-1498.5798732140681, 70.5625, 2423.762499988079)
+[17Jan2025 21:45:50.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[17Jan2025 21:45:50.334] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[17Jan2025 21:46:53.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Timothy'/88260, l='ServerLevel[world]', x=-1571.50, y=74.00, z=2574.30] died: Timothy discovered the floor was lava
+[17Jan2025 21:47:15.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Jan2025 21:47:15.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Jan2025 21:47:15.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Server closed
+[17Jan2025 21:47:15.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[17Jan2025 21:47:15.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Jan2025 21:47:15.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Jan2025 21:47:16.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Jan2025 21:47:16.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Jan2025 21:47:16.809] [Server thread/INFO] [surveyor/]: [Surveyor] Saving server data...
+[17Jan2025 21:47:17.106] [Server thread/INFO] [surveyor/]: [Surveyor] Finished saving data for minecraft:overworld | cleaned 5 terrain regions, 0 structure regions, 0 landmarks
+[17Jan2025 21:47:17.107] [Server thread/INFO] [surveyor/]: [Surveyor] Finished saving server data.
+[17Jan2025 21:47:17.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Jan2025 21:47:17.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Jan2025 21:47:17.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Jan2025 21:47:17.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Jan2025 21:47:17.376] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.376] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.376] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.376] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.376] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.376] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.376] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.376] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.376] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.376] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.377] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.377] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.561] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.562] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.562] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.562] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.562] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.562] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.562] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.562] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.562] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.562] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.562] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.562] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.563] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.563] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.563] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.563] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.564] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.564] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.564] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.564] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.564] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.564] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.564] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[17Jan2025 21:47:17.564] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
