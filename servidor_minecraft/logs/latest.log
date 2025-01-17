@@ -14057,3 +14057,100 @@ Caused by: java.io.IOException: Invalid tag id: 16
 [17Jan2025 18:09:03.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [17Jan2025 18:09:04.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> hay muchas islas aqui
 [17Jan2025 18:09:24.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17Jan2025 18:09:38.121] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id friendsandfoes:iceologer
+[17Jan2025 18:09:42.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 froze to death
+[17Jan2025 18:09:44.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5613ms or 112 ticks behind
+[17Jan2025 18:09:46.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> xddd
+[17Jan2025 18:09:49.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> ese ciclope
+[17Jan2025 18:09:54.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> con poderes me mato
+[17Jan2025 18:09:58.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> escape pero ya estaba muerto
+[17Jan2025 18:10:19.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> lo peor es que estoy lejos
+[17Jan2025 18:10:34.887] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[17Jan2025 18:10:52.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2753ms or 55 ticks behind
+[17Jan2025 18:11:47.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> me llevaaaaaaaa
+[17Jan2025 18:11:50.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17Jan2025 18:11:58.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> vamos amorir
+[17Jan2025 18:12:03.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 froze to death
+[17Jan2025 18:12:06.429] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class com.pikachu.mod.illager_more.CombatEvent
+[17Jan2025 18:12:08.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3040ms or 60 ticks behind
+[17Jan2025 18:12:31.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17Jan2025 18:12:50.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> estoy asustado jefe
+[17Jan2025 18:12:51.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4974ms or 99 ticks behind
+[17Jan2025 18:13:13.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> hay 3 dragones
+[17Jan2025 18:13:13.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7184ms or 143 ticks behind
+[17Jan2025 18:13:14.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> donde mori
+[17Jan2025 18:13:19.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> Xddd
+[17Jan2025 18:13:35.888] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7557ms or 151 ticks behind
+[17Jan2025 18:13:57.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7024ms or 140 ticks behind
+[17Jan2025 18:14:11.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by The Moonflower
+[17Jan2025 18:14:18.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5557ms or 111 ticks behind
+[17Jan2025 18:14:38.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[17Jan2025 18:14:57.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3768ms or 75 ticks behind
+[17Jan2025 18:15:16.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3932ms or 78 ticks behind
+[17Jan2025 18:15:27.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by The Moonflower
+[17Jan2025 18:15:36.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5056ms or 101 ticks behind
+[17Jan2025 18:15:55.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4027ms or 80 ticks behind
+[17Jan2025 18:15:55.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by The Wolf
+[17Jan2025 18:16:13.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3213ms or 64 ticks behind
+[17Jan2025 18:16:30.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> porque te llevaste toda mi tierra? xdd
+[17Jan2025 18:16:31.552] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3220ms or 64 ticks behind
+[17Jan2025 18:16:50.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3663ms or 73 ticks behind
+[17Jan2025 18:17:09.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3933ms or 78 ticks behind
+[17Jan2025 18:17:18.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Sprinter
+[17Jan2025 18:17:28.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by The Moonflower
+[17Jan2025 18:17:29.444] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5363ms or 107 ticks behind
+[17Jan2025 18:17:46.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> la
+[17Jan2025 18:17:52.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7930ms or 158 ticks behind
+[17Jan2025 18:17:56.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> justo luna roja xdd
+[17Jan2025 18:17:57.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Stroms
+[17Jan2025 18:18:12.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by The Wolf
+[17Jan2025 18:18:15.159] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7828ms or 156 ticks behind
+[17Jan2025 18:18:38.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7902ms or 158 ticks behind
+[17Jan2025 18:18:52.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by The Moonflower
+[17Jan2025 18:19:01.591] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8560ms or 171 ticks behind
+[17Jan2025 18:19:03.421] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jan2025 18:19:03.421] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[17Jan2025 18:19:03.422] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 2 corpse_maggot
+[17Jan2025 18:19:03.422] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[17Jan2025 18:19:03.422] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 3
+[17Jan2025 18:19:03.717] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jan2025 18:19:03.718] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[17Jan2025 18:19:03.718] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 2 corpse_maggot
+[17Jan2025 18:19:03.719] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[17Jan2025 18:19:03.719] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 3
+[17Jan2025 18:19:03.969] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jan2025 18:19:03.969] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[17Jan2025 18:19:03.969] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 2 corpse_maggot
+[17Jan2025 18:19:03.969] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[17Jan2025 18:19:03.969] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 3
+[17Jan2025 18:19:04.222] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jan2025 18:19:04.222] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[17Jan2025 18:19:04.222] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 2 corpse_maggot
+[17Jan2025 18:19:04.222] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[17Jan2025 18:19:04.222] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 3
+[17Jan2025 18:19:04.471] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jan2025 18:19:04.471] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[17Jan2025 18:19:04.471] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 2 corpse_maggot
+[17Jan2025 18:19:04.471] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[17Jan2025 18:19:04.472] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 3
+[17Jan2025 18:19:04.720] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jan2025 18:19:04.720] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[17Jan2025 18:19:04.721] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 2 corpse_maggot
+[17Jan2025 18:19:04.721] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[17Jan2025 18:19:04.721] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 3
+[17Jan2025 18:19:04.968] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jan2025 18:19:04.968] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[17Jan2025 18:19:04.968] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 2 corpse_maggot
+[17Jan2025 18:19:04.969] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[17Jan2025 18:19:04.969] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 3
+[17Jan2025 18:19:05.228] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[17Jan2025 18:19:05.229] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[17Jan2025 18:19:05.229] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 2 corpse_maggot
+[17Jan2025 18:19:05.229] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[17Jan2025 18:19:05.229] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 3
+[17Jan2025 18:19:24.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8260ms or 165 ticks behind
+[17Jan2025 18:19:31.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> recupero
+[17Jan2025 18:19:46.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6338ms or 126 ticks behind
+[17Jan2025 18:19:49.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> ahora vuelvo
+[17Jan2025 18:19:50.531] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[17Jan2025 18:19:50.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
