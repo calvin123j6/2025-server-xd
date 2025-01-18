@@ -193,6 +193,7 @@
       "minecraft:cold_ocean": "2025-01-18 19:47:27 +0000",
       "minecraft:forest": "2025-01-08 23:05:03 +0000",
       "autumnity:autumnity:maple_forest": "2025-01-11 23:22:13 +0000",
+      "environmental:environmental:pine_slopes": "2025-01-18 21:52:34 +0000",
       "minecraft:ocean": "2025-01-08 16:30:12 +0000",
       "minecraft:flower_forest": "2025-01-08 17:51:29 +0000",
       "minecraft:meadow": "2025-01-18 19:59:21 +0000",
@@ -821,6 +822,12 @@
   "alexsmobs:alexsmobs/bison_spyglass": {
     "criteria": {
       "spyglass_at_bison": "2025-01-18 21:14:23 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:earthyblood": {
+    "criteria": {
+      "earthyblood_0": "2025-01-18 21:46:39 +0000"
     },
     "done": true
   },
