@@ -10981,3 +10981,127 @@ Caused by: java.io.IOException: Invalid tag id: 14
 [18Jan2025 19:50:42.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4853ms or 97 ticks behind
 [18Jan2025 19:50:57.368] [Worker-Main-10/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [18Jan2025 19:51:04.882] [Worker-Main-22/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=216, y=47, z=211}
+[18Jan2025 19:52:01.531] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-120, y=-12, z=164}
+[18Jan2025 19:52:04.426] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18Jan2025 19:52:23.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3932ms or 78 ticks behind
+[18Jan2025 19:52:32.357] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[18Jan2025 19:52:32.359] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[18Jan2025 19:52:32.365] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[18Jan2025 19:52:32.366] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[18Jan2025 19:52:32.366] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[18Jan2025 19:52:42.108] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3785ms or 75 ticks behind
+[18Jan2025 19:53:00.111] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3038ms or 60 ticks behind
+[18Jan2025 19:53:11.353] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[18Jan2025 19:53:11.354] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[18Jan2025 19:53:11.354] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[18Jan2025 19:53:11.356] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[18Jan2025 19:53:18.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3519ms or 70 ticks behind
+[18Jan2025 19:53:37.820] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/45571, l='ServerLevel[world]', x=729.50, y=16.00, z=591.50]
+[18Jan2025 19:53:38.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5079ms or 101 ticks behind
+[18Jan2025 19:53:56.652] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=225, y=-11, z=-7}
+[18Jan2025 19:53:56.652] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=230, y=-11, z=-6}
+[18Jan2025 19:53:56.652] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=230, y=-11, z=-6}
+[18Jan2025 19:54:10.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davisdrt lost connection: Disconnected
+[18Jan2025 19:54:10.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt left the game
+[18Jan2025 19:54:10.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved too quickly! -4.613077934812054,-5.746153276349887,6.90859377216384
+[18Jan2025 19:54:10.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved too quickly! -8.506160252282598,5.010600734055615,-2.7589850915693432
+[18Jan2025 19:54:22.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28710ms or 574 ticks behind
+[18Jan2025 19:54:22.339] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/45971, l='ServerLevel[world]', x=726.50, y=16.00, z=590.50]
+[18Jan2025 19:54:24.230] [Worker-Main-22/ERROR] [net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager/]: Couldn't load structure mss:desert_well
+net.minecraft.ReportedException: Loading NBT data
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:480) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:43) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.nbt.ListTag$1.m_7300_(ListTag.java:26) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.nbt.CompoundTag$1.m_7300_(CompoundTag.java:32) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.nbt.NbtIo.m_128930_(NbtIo.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.nbt.NbtIo.m_128934_(NbtIo.java:99) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.nbt.NbtIo.m_128939_(NbtIo.java:35) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230377_(StructureTemplateManager.java:227) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230372_(StructureTemplateManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230427_(StructureTemplateManager.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230425_(StructureTemplateManager.java:108) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1740) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230407_(StructureTemplateManager.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.world.level.levelgen.structure.templatesystem.StructureTemplateManager.m_230359_(StructureTemplateManager.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_227299_(SinglePoolElement.java:81) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.world.level.levelgen.structure.pools.SinglePoolElement.m_214015_(SinglePoolElement.java:115) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at com.finndog.mss.world.structures.pieces.PieceLimitedJigsawManager.assembleJigsawStructure(PieceLimitedJigsawManager.java:106) ~[mss-1.2.6-1.20.jar%23391!/:?]
+	at com.finndog.mss.world.structures.GenericJigsawStructure.m_214086_(GenericJigsawStructure.java:213) ~[mss-1.2.6-1.20.jar%23391!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_262864_(Structure.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.world.level.levelgen.structure.Structure.m_226596_(Structure.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_223104_(ChunkGenerator.java:513) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_254811_(ChunkGenerator.java:466) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at net.minecraft.world.level.chunk.ChunkGenerator.m_255037_(ChunkGenerator.java:448) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_289181_(ChunkStatus.java:54) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.world.level.chunk.ChunkStatus.m_280308_(ChunkStatus.java:252) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$27(ChunkMap.java:643) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at com.mojang.datafixers.util.Either$Left.map(Either.java:38) ~[datafixerupper-6.0.8.jar%2377!/:?]
+	at net.minecraft.server.level.ChunkMap.lambda$scheduleChunkGeneration$29(ChunkMap.java:634) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at java.util.concurrent.CompletableFuture$UniCompose.tryFire(CompletableFuture.java:1150) ~[?:?]
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
+	at net.minecraft.server.level.ChunkTaskPriorityQueueSorter.m_143188_(ChunkTaskPriorityQueueSorter.java:62) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1395) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+Caused by: java.io.IOException: Invalid tag id: 16
+	at net.minecraft.nbt.TagType$1.m_197591_(TagType.java:58) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
+	... 45 more
+[18Jan2025 19:54:40.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3502ms or 70 ticks behind
+[18Jan2025 19:54:51.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/46327, l='ServerLevel[world]', x=725.50, y=16.00, z=590.50]
+[18Jan2025 19:54:57.773] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Gravel'/46452, l='ServerLevel[world]', x=728.50, y=17.00, z=591.50]
+[18Jan2025 19:54:59.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3871ms or 77 ticks behind
+[18Jan2025 19:55:06.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davisdrt[/127.215.198.66:34761] logged in with entity id 46515 at (623.8277084535052, 70.24918707874468, 705.1848733613407)
+[18Jan2025 19:55:06.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt joined the game
+[18Jan2025 19:55:06.857] [Server thread/INFO] [Jade/]: Syncing config to davisdrt (74cb11a5-0b51-3278-a2bf-301ecf3b38d0)
+[18Jan2025 19:55:16.303] [Server thread/ERROR] [Kambrik/]: Failed to decode leaf 'bountiful:bounty_info' in stack 1 bounty (type: BountyItem)
+[18Jan2025 19:55:16.303] [Server thread/ERROR] [Kambrik/]: Failed to decode leaf 'bountiful:bounty_info' in stack 1 bounty (type: BountyItem)
+[18Jan2025 19:55:16.303] [Server thread/ERROR] [Kambrik/]: Failed to decode leaf 'bountiful:bounty_info' in stack 1 bounty (type: BountyItem)
+[18Jan2025 19:55:16.304] [Server thread/ERROR] [Kambrik/]: Failed to decode leaf 'bountiful:bounty_info' in stack 1 bounty (type: BountyItem)
+[18Jan2025 19:55:16.304] [Server thread/ERROR] [Kambrik/]: Failed to decode leaf 'bountiful:bounty_info' in stack 1 bounty (type: BountyItem)
+[18Jan2025 19:55:16.304] [Server thread/ERROR] [Kambrik/]: Failed to decode leaf 'bountiful:bounty_info' in stack 1 bounty (type: BountyItem)
+[18Jan2025 19:55:16.304] [Server thread/ERROR] [Kambrik/]: Failed to decode leaf 'bountiful:bounty_info' in stack 1 bounty (type: BountyItem)
+[18Jan2025 19:55:16.304] [Server thread/ERROR] [Kambrik/]: Failed to decode leaf 'bountiful:bounty_info' in stack 1 bounty (type: BountyItem)
+[18Jan2025 19:55:16.304] [Server thread/ERROR] [Kambrik/]: Failed to decode leaf 'bountiful:bounty_info' in stack 1 bounty (type: BountyItem)
+[18Jan2025 19:55:16.305] [Server thread/ERROR] [Kambrik/]: Failed to decode leaf 'bountiful:bounty_info' in stack 1 bounty (type: BountyItem)
+[18Jan2025 19:55:16.305] [Server thread/ERROR] [Kambrik/]: Failed to decode leaf 'bountiful:bounty_info' in stack 1 bounty (type: BountyItem)
+[18Jan2025 19:55:16.305] [Server thread/ERROR] [Kambrik/]: Failed to decode leaf 'bountiful:bounty_info' in stack 1 bounty (type: BountyItem)
+[18Jan2025 19:55:19.252] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4579ms or 91 ticks behind
+[18Jan2025 19:55:42.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8505ms or 170 ticks behind
+[18Jan2025 19:56:05.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8005ms or 160 ticks behind
+[18Jan2025 19:56:25.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4564ms or 91 ticks behind
+[18Jan2025 19:57:05.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2577ms or 51 ticks behind
+[18Jan2025 19:57:42.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18Jan2025 19:58:57.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[18Jan2025 19:59:00.265] [Worker-Main-10/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[18Jan2025 19:59:19.095] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6672ms or 133 ticks behind
+[18Jan2025 19:59:34.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Trinidad'/50081, l='ServerLevel[world]', x=432.93, y=116.20, z=1329.97] died, message: 'Trinidad was slain by Cyclops'
+[18Jan2025 19:59:34.795] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Trinidad'/50081, l='ServerLevel[world]', x=432.93, y=116.20, z=1329.97] died: Trinidad was slain by Cyclops
+[18Jan2025 19:59:38.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4898ms or 97 ticks behind
+[18Jan2025 19:59:56.924] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[18Jan2025 20:00:14.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3052ms or 61 ticks behind
+[18Jan2025 20:00:32.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2332ms or 46 ticks behind
+[18Jan2025 20:00:50.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3174ms or 63 ticks behind
+[18Jan2025 20:01:07.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2257ms or 45 ticks behind
+[18Jan2025 20:01:26.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3344ms or 66 ticks behind
+[18Jan2025 20:01:44.867] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3894ms or 77 ticks behind
+[18Jan2025 20:02:05.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5597ms or 111 ticks behind
+[18Jan2025 20:02:24.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[18Jan2025 20:02:24.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[18Jan2025 20:02:24.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4402ms or 88 ticks behind
+[18Jan2025 20:02:26.307] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davisdrt lost connection: Disconnected
+[18Jan2025 20:02:26.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt left the game
