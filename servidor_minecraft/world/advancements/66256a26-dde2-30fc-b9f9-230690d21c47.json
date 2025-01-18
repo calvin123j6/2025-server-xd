@@ -278,10 +278,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "environmental:environmental:snowy_old_growth_pine_barrens": "2025-01-17 18:07:49 +0000",
+      "minecraft:snowy_slopes": "2025-01-18 20:00:42 +0000",
       "minecraft:taiga": "2025-01-17 21:04:10 +0000",
       "minecraft:deep_ocean": "2025-01-08 17:07:24 +0000",
       "minecraft:frozen_river": "2025-01-16 23:35:25 +0000",
       "minecraft:sunflower_plains": "2025-01-08 15:27:53 +0000",
+      "minecraft:cherry_grove": "2025-01-18 19:58:49 +0000",
       "minecraft:birch_forest": "2025-01-08 20:39:37 +0000",
       "minecraft:beach": "2025-01-08 14:46:43 +0000",
       "environmental:environmental:blossom_woods": "2025-01-09 18:54:10 +0000",
@@ -294,6 +296,7 @@
       "minecraft:snowy_taiga": "2025-01-17 02:08:43 +0000",
       "environmental:environmental:snowy_pine_barrens": "2025-01-17 20:49:16 +0000",
       "minecraft:swamp": "2025-01-09 18:28:18 +0000",
+      "minecraft:grove": "2025-01-18 20:00:45 +0000",
       "minecraft:cold_ocean": "2025-01-12 00:09:11 +0000",
       "minecraft:forest": "2025-01-08 20:34:54 +0000",
       "minecraft:lush_caves": "2025-01-18 01:07:58 +0000",
