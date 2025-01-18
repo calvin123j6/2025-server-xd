@@ -745,15 +745,9 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "minecraft:story/enchant_item": {
     "criteria": {
-      "lava_bucket": "2025-01-12 00:13:07 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2025-01-11 23:02:35 +0000"
+      "enchanted_item": "2025-01-11 22:13:00 +0000"
     },
     "done": true
   },
@@ -763,21 +757,27 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-01-11 23:02:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-01-11 23:26:27 +0000"
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2025-01-11 22:13:00 +0000"
-    },
-    "done": true
-  },
   "enemyexpansion:vampire_slayer": {
     "criteria": {
       "vampire_slayer_0": "2025-01-11 23:29:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-12 00:13:07 +0000"
     },
     "done": true
   },
