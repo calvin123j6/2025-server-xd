@@ -10516,3 +10516,18 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [18Jan2025 21:36:27.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Zombie
 [18Jan2025 21:36:31.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Grady'/464, l='ServerLevel[world]', x=281.08, y=100.50, z=1810.30] died: Grady was incinerated by Fire Dragon
 [18Jan2025 21:36:44.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Merle'/465, l='ServerLevel[world]', x=289.55, y=103.00, z=1812.77] died: Merle was turned into KFC by Fire Dragon
+[18Jan2025 21:36:52.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has made the advancement [Dragonslayer]
+[18Jan2025 21:37:21.185] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Long'/422, l='ServerLevel[world]', x=290.45, y=103.00, z=1816.52] died: Long was shot by davisdrt
+[18Jan2025 21:37:30.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved wrongly!
+[18Jan2025 21:37:47.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Zombie
+[18Jan2025 21:38:02.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Zombie
+[18Jan2025 21:38:15.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Zombie
+[18Jan2025 21:38:29.503] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Delinda'/2339, l='ServerLevel[world]', x=62.32, y=62.47, z=223.83] died: Delinda was slain by Deepling Brute
+[18Jan2025 21:41:08.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was doomed to fall by davisdrt
+[18Jan2025 21:41:13.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18Jan2025 21:41:55.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[18Jan2025 21:42:10.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Siamese Skeletons
+[18Jan2025 21:42:24.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by The Moonflower
+[18Jan2025 21:44:23.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Dread Hound
+[18Jan2025 21:44:44.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> WWWWWWWWWWW
+[18Jan2025 21:46:39.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has completed the challenge [Blood of the great ent]
