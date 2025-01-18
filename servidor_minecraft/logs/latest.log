@@ -11399,3 +11399,138 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [18Jan2025 02:09:22.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=100, y=70, z=4046} BlockPos{x=99, y=70, z=4046}
 [18Jan2025 02:09:22.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=100, y=70, z=4046} BlockPos{x=99, y=70, z=4046}
 [18Jan2025 02:09:30.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6066ms or 121 ticks behind
+[18Jan2025 02:09:53.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8268ms or 165 ticks behind
+[18Jan2025 02:10:14.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5296ms or 105 ticks behind
+[18Jan2025 02:10:34.076] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4940ms or 98 ticks behind
+[18Jan2025 02:10:40.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[18Jan2025 02:10:40.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[18Jan2025 02:10:44.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 was slain by Zombie
+[18Jan2025 02:10:54.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5013ms or 100 ticks behind
+[18Jan2025 02:11:11.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2514ms or 50 ticks behind
+[18Jan2025 02:11:28.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[18Jan2025 02:11:46.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2452ms or 49 ticks behind
+[18Jan2025 02:12:03.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2814ms or 56 ticks behind
+[18Jan2025 02:12:21.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2455ms or 49 ticks behind
+[18Jan2025 02:12:38.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2404ms or 48 ticks behind
+[18Jan2025 02:12:56.944] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3158ms or 63 ticks behind
+[18Jan2025 02:13:14.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3054ms or 61 ticks behind
+[18Jan2025 02:13:20.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved too quickly! 4.610599135608268,-0.25521260322235406,-8.907632129013564
+[18Jan2025 02:13:35.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5582ms or 111 ticks behind
+[18Jan2025 02:13:53.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2842ms or 56 ticks behind
+[18Jan2025 02:14:10.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: 789123 lost connection: Disconnected
+[18Jan2025 02:14:10.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 left the game
+[18Jan2025 02:14:12.020] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3684ms or 73 ticks behind
+[18Jan2025 02:15:30.403] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Elwood'/40157, l='ServerLevel[world]', x=232.70, y=65.63, z=3990.70] died, message: 'Elwood suffocated in a wall'
+[18Jan2025 02:15:30.404] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elwood'/40157, l='ServerLevel[world]', x=232.70, y=65.63, z=3990.70] died: Elwood suffocated in a wall
+[18Jan2025 02:15:38.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was turned into KFC by Fire Dragon
+[18Jan2025 02:15:40.352] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Sondra'/68616, l='ServerLevel[world]', x=232.70, y=65.96, z=3989.79] died, message: 'Sondra suffocated in a wall'
+[18Jan2025 02:15:40.352] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Sondra'/68616, l='ServerLevel[world]', x=232.70, y=65.96, z=3989.79] died: Sondra suffocated in a wall
+[18Jan2025 02:15:47.179] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Alba'/68613, l='ServerLevel[world]', x=232.70, y=65.00, z=3990.70] died, message: 'Alba suffocated in a wall'
+[18Jan2025 02:15:47.180] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Alba'/68613, l='ServerLevel[world]', x=232.70, y=65.00, z=3990.70] died: Alba suffocated in a wall
+[18Jan2025 02:15:51.030] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Penny'/68619, l='ServerLevel[world]', x=232.47, y=65.39, z=3990.70] died, message: 'Penny suffocated in a wall'
+[18Jan2025 02:15:51.030] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Penny'/68619, l='ServerLevel[world]', x=232.47, y=65.39, z=3990.70] died: Penny suffocated in a wall
+[18Jan2025 02:15:52.284] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cecilia'/68606, l='ServerLevel[world]', x=168.86, y=63.00, z=3976.30] died, message: 'Cecilia was turned into KFC by Fire Dragon'
+[18Jan2025 02:15:52.285] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Cecilia'/68606, l='ServerLevel[world]', x=168.86, y=63.00, z=3976.30] died: Cecilia was turned into KFC by Fire Dragon
+[18Jan2025 02:15:52.285] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Terri'/68607, l='ServerLevel[world]', x=169.66, y=63.00, z=3976.30] died, message: 'Terri was incinerated by Fire Dragon'
+[18Jan2025 02:15:52.286] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Terri'/68607, l='ServerLevel[world]', x=169.66, y=63.00, z=3976.30] died: Terri was turned into KFC by Fire Dragon
+[18Jan2025 02:16:28.148] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hubert'/68565, l='ServerLevel[world]', x=198.00, y=65.00, z=3983.60] died, message: 'Hubert was slain by Fire Dragon'
+[18Jan2025 02:16:28.149] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Hubert'/68565, l='ServerLevel[world]', x=198.00, y=65.00, z=3983.60] died: Hubert was slain by Fire Dragon
+[18Jan2025 02:16:28.905] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Allyn'/68568, l='ServerLevel[world]', x=199.51, y=71.00, z=3977.94] died, message: 'Allyn was turned into KFC by Fire Dragon'
+[18Jan2025 02:16:28.906] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Allyn'/68568, l='ServerLevel[world]', x=199.51, y=71.00, z=3977.94] died: Allyn was incinerated by Fire Dragon
+[18Jan2025 02:16:30.001] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Maximo'/68567, l='ServerLevel[world]', x=200.70, y=70.92, z=3978.60] died, message: 'Maximo was slain by Fire Dragon'
+[18Jan2025 02:16:30.002] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Maximo'/68567, l='ServerLevel[world]', x=200.70, y=70.92, z=3978.60] died: Maximo was slain by Fire Dragon
+[18Jan2025 02:16:35.052] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Dannie'/68637, l='ServerLevel[world]', x=215.95, y=69.39, z=4011.27] died, message: 'Dannie was slain by Fire Dragon'
+[18Jan2025 02:16:35.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Dannie'/68637, l='ServerLevel[world]', x=215.95, y=69.39, z=4011.27] died: Dannie was slain by Fire Dragon
+[18Jan2025 02:16:40.950] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shelba'/68612, l='ServerLevel[world]', x=232.52, y=65.50, z=3988.50] died, message: 'Shelba was slain by Fire Dragon'
+[18Jan2025 02:16:40.951] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Shelba'/68612, l='ServerLevel[world]', x=232.52, y=65.50, z=3988.50] died: Shelba was slain by Fire Dragon
+[18Jan2025 02:16:43.216] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mitzi'/68615, l='ServerLevel[world]', x=235.65, y=65.50, z=3988.69] died, message: 'Mitzi was turned into KFC by Fire Dragon'
+[18Jan2025 02:16:43.217] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Mitzi'/68615, l='ServerLevel[world]', x=235.65, y=65.50, z=3988.69] died: Mitzi was turned into KFC by Fire Dragon
+[18Jan2025 02:16:43.218] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Elfreda'/68617, l='ServerLevel[world]', x=235.33, y=66.00, z=3989.70] died, message: 'Elfreda was turned into KFC by Fire Dragon'
+[18Jan2025 02:16:43.219] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Elfreda'/68617, l='ServerLevel[world]', x=235.33, y=66.00, z=3989.70] died: Elfreda was turned into KFC by Fire Dragon
+[18Jan2025 02:16:43.220] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Taisha'/68628, l='ServerLevel[world]', x=234.47, y=66.50, z=3989.21] died, message: 'Taisha was incinerated by Fire Dragon'
+[18Jan2025 02:16:43.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Taisha'/68628, l='ServerLevel[world]', x=234.47, y=66.50, z=3989.21] died: Taisha was incinerated by Fire Dragon
+[18Jan2025 02:16:47.660] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Veronica'/68610, l='ServerLevel[world]', x=240.03, y=66.00, z=3989.19] died, message: 'Veronica was slain by Fire Dragon'
+[18Jan2025 02:16:47.660] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Veronica'/68610, l='ServerLevel[world]', x=240.03, y=66.00, z=3989.19] died: Veronica was slain by Fire Dragon
+[18Jan2025 02:16:47.707] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Alberta'/68611, l='ServerLevel[world]', x=235.77, y=66.00, z=3995.42] died, message: 'Alberta was slain by Fire Dragon'
+[18Jan2025 02:16:47.708] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Alberta'/68611, l='ServerLevel[world]', x=235.77, y=66.00, z=3995.42] died: Alberta was slain by Fire Dragon
+[18Jan2025 02:16:51.401] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Lyndsey'/68627, l='ServerLevel[world]', x=242.90, y=74.30, z=3995.26] died, message: 'Lyndsey was slain by Fire Dragon'
+[18Jan2025 02:16:51.401] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Lyndsey'/68627, l='ServerLevel[world]', x=242.90, y=74.30, z=3995.26] died: Lyndsey was slain by Fire Dragon
+[18Jan2025 02:16:53.247] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Ernesto'/68614, l='ServerLevel[world]', x=239.46, y=65.77, z=3985.77] died, message: 'Ernesto burned to death'
+[18Jan2025 02:16:53.247] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Ernesto'/68614, l='ServerLevel[world]', x=239.46, y=65.77, z=3985.77] died: Ernesto burned to death
+[18Jan2025 02:16:54.703] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Shanita'/68608, l='ServerLevel[world]', x=243.34, y=73.95, z=3995.62] died: Shanita was slain by Fire Dragon
+[18Jan2025 02:16:56.495] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jewell'/68620, l='ServerLevel[world]', x=238.67, y=65.00, z=3986.76] died, message: 'Jewell was slain by Fire Dragon'
+[18Jan2025 02:16:56.495] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jewell'/68620, l='ServerLevel[world]', x=238.67, y=65.00, z=3986.76] died: Jewell was slain by Fire Dragon
+[18Jan2025 02:16:59.051] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Herman'/68636, l='ServerLevel[world]', x=222.36, y=71.00, z=4021.56] died, message: 'Herman was incinerated by Fire Dragon'
+[18Jan2025 02:16:59.051] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Herman'/68636, l='ServerLevel[world]', x=222.36, y=71.00, z=4021.56] died: Herman was incinerated by Fire Dragon
+[18Jan2025 02:17:00.918] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kim'/68632, l='ServerLevel[world]', x=235.96, y=63.00, z=3979.12] died, message: 'Kim was incinerated by Fire Dragon'
+[18Jan2025 02:17:00.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kim'/68632, l='ServerLevel[world]', x=235.96, y=63.00, z=3979.12] died: Kim was incinerated by Fire Dragon
+[18Jan2025 02:17:01.071] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toby'/68618, l='ServerLevel[world]', x=238.34, y=64.00, z=3979.33] died, message: 'Toby was turned into KFC by Fire Dragon'
+[18Jan2025 02:17:01.072] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Toby'/68618, l='ServerLevel[world]', x=238.34, y=64.00, z=3979.33] died: Toby was turned into KFC by Fire Dragon
+[18Jan2025 02:17:03.046] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Broderick'/68555, l='ServerLevel[world]', x=231.60, y=63.00, z=3971.62] died: Broderick burned to death
+[18Jan2025 02:17:12.500] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nieves'/68678, l='ServerLevel[world]', x=282.90, y=62.33, z=3991.64] died, message: 'Nieves was incinerated by Fire Dragon'
+[18Jan2025 02:17:12.500] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Nieves'/68678, l='ServerLevel[world]', x=282.90, y=62.33, z=3991.64] died: Nieves was incinerated by Fire Dragon
+[18Jan2025 02:17:12.967] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Agustina'/68677, l='ServerLevel[world]', x=282.70, y=62.33, z=3992.70] died, message: 'Agustina was incinerated by Fire Dragon'
+[18Jan2025 02:17:12.968] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Agustina'/68677, l='ServerLevel[world]', x=282.70, y=62.33, z=3992.70] died: Agustina was turned into KFC by Fire Dragon
+[18Jan2025 02:17:14.927] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hilary'/68571, l='ServerLevel[world]', x=253.70, y=64.00, z=3978.50] died, message: 'Hilary went up in flames'
+[18Jan2025 02:17:14.928] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Hilary'/68571, l='ServerLevel[world]', x=253.70, y=64.00, z=3978.50] died: Hilary went up in flames
+[18Jan2025 02:17:15.651] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Rudolf'/68570, l='ServerLevel[world]', x=249.84, y=62.88, z=3977.51] died, message: 'Rudolf was turned into KFC by Fire Dragon'
+[18Jan2025 02:17:15.652] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Rudolf'/68570, l='ServerLevel[world]', x=249.84, y=62.88, z=3977.51] died: Rudolf was incinerated by Fire Dragon
+[18Jan2025 02:17:15.652] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Jeanene'/68569, l='ServerLevel[world]', x=249.20, y=62.62, z=3977.51] died, message: 'Jeanene was turned into KFC by Fire Dragon'
+[18Jan2025 02:17:15.652] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Jeanene'/68569, l='ServerLevel[world]', x=249.20, y=62.62, z=3977.51] died: Jeanene was incinerated by Fire Dragon
+[18Jan2025 02:17:16.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nydia'/68572, l='ServerLevel[world]', x=255.64, y=64.00, z=3972.16] died, message: 'Nydia was slain by Fire Dragon'
+[18Jan2025 02:17:16.253] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Nydia'/68572, l='ServerLevel[world]', x=255.64, y=64.00, z=3972.16] died: Nydia was slain by Fire Dragon
+[18Jan2025 02:17:32.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Alligator Snapping Turtle
+[18Jan2025 02:20:26.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was shot by Skeleton
+[18Jan2025 02:21:13.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved wrongly!
+[18Jan2025 02:21:13.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved wrongly!
+[18Jan2025 02:21:14.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Wilted
+[18Jan2025 02:22:19.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Geraldo'/75029, l='ServerLevel[world]', x=241.30, y=64.00, z=4182.51] died: Geraldo suffocated in a wall
+[18Jan2025 02:22:22.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[18Jan2025 02:22:22.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[18Jan2025 02:23:38.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Jan2025 02:23:38.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Jan2025 02:23:38.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Jan2025 02:23:38.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Jan2025 02:23:38.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Jan2025 02:23:38.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Jan2025 02:23:38.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Jan2025 02:23:39.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Jan2025 02:23:39.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Jan2025 02:23:39.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Jan2025 02:23:39.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Jan2025 02:23:39.035] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.035] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.036] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.036] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.036] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.036] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.036] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.036] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.037] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.037] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.037] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.037] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.375] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.375] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.375] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.375] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.376] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.376] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.376] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.376] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.376] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.376] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.377] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.377] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.377] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.378] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.378] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.378] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.378] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.378] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.379] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.379] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.379] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.379] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.380] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[18Jan2025 02:23:39.380] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
