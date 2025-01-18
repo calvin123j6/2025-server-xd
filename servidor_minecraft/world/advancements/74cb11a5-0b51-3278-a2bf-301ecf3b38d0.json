@@ -799,5 +799,11 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:waste_recycler": {
+    "criteria": {
+      "waste_recycler_0": "2025-01-18 19:27:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

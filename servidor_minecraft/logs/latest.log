@@ -10795,3 +10795,37 @@ Caused by: java.io.IOException: Invalid tag id: 115
 [18Jan2025 19:30:26.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
 [18Jan2025 19:30:29.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Zombie
 [18Jan2025 19:31:06.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Dread Hound
+[18Jan2025 19:31:16.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has completed the challenge [+PARRY]
+[18Jan2025 19:33:41.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt withered away whilst fighting Zombie
+[18Jan2025 19:34:05.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by Nightmare Stalker
+[18Jan2025 19:34:39.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.227.143.146:46759] logged in with entity id 29068 at (-694.4307867156975, 68.0, 2272.6874736432414)
+[18Jan2025 19:34:39.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[18Jan2025 19:34:39.753] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[18Jan2025 19:34:41.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved too quickly! 9.951082397404662,-0.8338907390617862,2.29087060071954
+[18Jan2025 19:35:34.879] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18Jan2025 19:35:53.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[18Jan2025 19:36:09.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <789123> confirmo
+[18Jan2025 19:36:13.263] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4540ms or 90 ticks behind
+[18Jan2025 19:36:31.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3770ms or 75 ticks behind
+[18Jan2025 19:36:49.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2685ms or 53 ticks behind
+[18Jan2025 19:36:55.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq fell from a high place
+[18Jan2025 19:37:05.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 hit the ground too hard
+[18Jan2025 19:37:07.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3359ms or 67 ticks behind
+[18Jan2025 19:37:25.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2757ms or 55 ticks behind
+[18Jan2025 19:37:45.404] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4682ms or 93 ticks behind
+[18Jan2025 19:38:04.447] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4075ms or 81 ticks behind
+[18Jan2025 19:38:08.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved too quickly! 6.1586059618986155,1.0435356201475088,-7.865197620009866
+[18Jan2025 19:38:08.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved too quickly! -8.516568341244238,1.7967356006687112,5.2444387974549045
+[18Jan2025 19:38:23.613] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4190ms or 83 ticks behind
+[18Jan2025 19:38:41.005] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[18Jan2025 19:38:43.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has made the advancement [The Journey Begins]
+[18Jan2025 19:39:05.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[18Jan2025 19:39:26.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[18Jan2025 19:39:44.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2562ms or 51 ticks behind
+[18Jan2025 19:40:01.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[18Jan2025 19:40:18.535] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[18Jan2025 19:40:37.273] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3750ms or 75 ticks behind
+[18Jan2025 19:40:54.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was shot by davisdrt
+[18Jan2025 19:40:56.260] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3987ms or 79 ticks behind
+[18Jan2025 19:41:13.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by davisdrt
+[18Jan2025 19:41:14.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3081ms or 61 ticks behind
