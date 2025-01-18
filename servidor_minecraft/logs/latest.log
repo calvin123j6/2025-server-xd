@@ -10640,3 +10640,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [18Jan2025 23:14:15.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved wrongly!
 [18Jan2025 23:19:49.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Crocodile
 [18Jan2025 23:19:49.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Chompy]
+[18Jan2025 23:23:12.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 drowned
+[18Jan2025 23:24:29.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq died
+[18Jan2025 23:26:07.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 died because of The Moonflower
