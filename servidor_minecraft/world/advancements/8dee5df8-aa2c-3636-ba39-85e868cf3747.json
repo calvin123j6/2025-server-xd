@@ -901,5 +901,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2025-01-18 01:32:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
