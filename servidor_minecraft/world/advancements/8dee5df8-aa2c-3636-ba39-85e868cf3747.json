@@ -357,6 +357,7 @@
       "baked_potato": "2025-01-09 22:30:23 +0000",
       "beef": "2025-01-09 22:20:59 +0000",
       "abnormals_delight:onion": "2025-01-11 00:02:09 +0000",
+      "suspicious_stew": "2025-01-18 02:01:36 +0000",
       "abnormals_delight:tomato": "2025-01-14 00:01:37 +0000",
       "melon_slice": "2025-01-09 23:24:41 +0000",
       "neapolitan:strawberries": "2025-01-07 23:25:29 +0000",
@@ -631,6 +632,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-01-18 01:54:04 +0000",
       "entered_stables": "2025-01-11 00:11:40 +0000",
       "entered_watch_tower": "2025-01-18 01:07:30 +0000",
       "entered_ruined_building": "2025-01-16 23:49:24 +0000"
