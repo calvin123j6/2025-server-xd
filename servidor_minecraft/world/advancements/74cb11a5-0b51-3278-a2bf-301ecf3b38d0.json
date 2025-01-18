@@ -817,5 +817,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/bison_spyglass": {
+    "criteria": {
+      "spyglass_at_bison": "2025-01-18 21:14:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

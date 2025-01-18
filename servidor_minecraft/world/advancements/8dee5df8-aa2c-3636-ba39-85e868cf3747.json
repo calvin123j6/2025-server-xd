@@ -422,6 +422,7 @@
   },
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
+      "locate_shipwreck": "2025-01-18 20:44:28 +0000",
       "locate_underwater_small_ruins": "2025-01-07 23:33:01 +0000"
     },
     "done": false
@@ -912,6 +913,48 @@
   "minecraft:husbandry/wax_off": {
     "criteria": {
       "wax_off": "2025-01-18 01:32:53 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:rotten_king": {
+    "criteria": {
+      "rotten_king": "2025-01-18 20:25:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-18 20:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-01-18 20:28:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-01-18 20:28:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-18 20:28:32 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-01-18 20:24:51 +0000"
+    },
+    "done": true
+  },
+  "royalvariations:royal_variations_achievement": {
+    "criteria": {
+      "royal_variations_achievement": "2025-01-18 20:25:53 +0000"
     },
     "done": true
   },

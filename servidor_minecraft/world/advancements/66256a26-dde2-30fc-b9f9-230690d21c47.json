@@ -294,6 +294,7 @@
       "minecraft:snowy_plains": "2025-01-16 23:35:25 +0000",
       "minecraft:stony_shore": "2025-01-17 00:49:46 +0000",
       "minecraft:snowy_taiga": "2025-01-17 02:08:43 +0000",
+      "minecraft:dripstone_caves": "2025-01-18 20:41:29 +0000",
       "environmental:environmental:snowy_pine_barrens": "2025-01-17 20:49:16 +0000",
       "minecraft:swamp": "2025-01-09 18:28:18 +0000",
       "minecraft:grove": "2025-01-18 20:00:45 +0000",
@@ -627,6 +628,7 @@
       "cabbage": "2025-01-08 18:37:11 +0000",
       "tomato": "2025-01-08 18:36:20 +0000",
       "sugar_cane": "2025-01-09 21:09:47 +0000",
+      "red_mushroom": "2025-01-18 20:57:22 +0000",
       "wheat": "2025-01-08 17:47:30 +0000",
       "melon": "2025-01-08 17:47:30 +0000",
       "carrot": "2025-01-08 18:37:43 +0000"
@@ -705,6 +707,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-01-18 20:42:04 +0000",
       "in_better_spider_dungeon": "2025-01-08 19:24:18 +0000",
       "in_better_monster_room": "2025-01-11 00:37:24 +0000"
     },
@@ -1134,6 +1137,12 @@
   "nova_structures:adventure/find_swamp_village": {
     "criteria": {
       "minecraft:village_swamp": "2025-01-18 01:32:04 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-18 20:42:04 +0000"
     },
     "done": true
   },
