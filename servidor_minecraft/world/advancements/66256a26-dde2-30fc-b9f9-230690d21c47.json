@@ -295,6 +295,7 @@
       "minecraft:swamp": "2025-01-09 18:28:18 +0000",
       "minecraft:cold_ocean": "2025-01-12 00:09:11 +0000",
       "minecraft:forest": "2025-01-08 20:34:54 +0000",
+      "minecraft:lush_caves": "2025-01-18 01:07:58 +0000",
       "environmental:environmental:pine_barrens": "2025-01-17 21:18:29 +0000",
       "minecraft:ice_spikes": "2025-01-17 00:49:32 +0000",
       "autumnity:autumnity:maple_forest": "2025-01-11 00:02:57 +0000",
@@ -1115,6 +1116,12 @@
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2025-01-17 21:44:41 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:immersive_weathering/moss": {
+    "criteria": {
+      "apple": "2025-01-18 01:07:13 +0000"
     },
     "done": true
   },
