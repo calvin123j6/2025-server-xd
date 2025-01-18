@@ -10637,3 +10637,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [18Jan2025 22:46:24.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Jos3enriq) moved too quickly! 10.987024447886597,0.0,-4.341764439944598
 [18Jan2025 22:46:24.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of Jos3enriq) moved too quickly! 11.34644551619266,0.0,-4.641803267780688
 [18Jan2025 22:47:34.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kevin123j2> WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+[18Jan2025 23:14:15.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved wrongly!
+[18Jan2025 23:19:49.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Crocodile
+[18Jan2025 23:19:49.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Chompy]
