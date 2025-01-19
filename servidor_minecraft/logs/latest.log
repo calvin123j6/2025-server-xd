@@ -10643,3 +10643,52 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [18Jan2025 23:23:12.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 drowned
 [18Jan2025 23:24:29.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq died
 [18Jan2025 23:26:07.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 died because of The Moonflower
+[18Jan2025 23:30:23.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has made the advancement [No Longer Short-Staffed]
+[18Jan2025 23:37:55.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was incinerated by Fire Dragon
+[18Jan2025 23:38:13.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-249, y=68, z=71} BlockPos{x=-249, y=66, z=72}
+[18Jan2025 23:38:51.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[18Jan2025 23:38:51.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[18Jan2025 23:46:16.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.15.68.150:42583] logged in with entity id 72121 at (173.21531607814842, 88.0, 1007.6999999880791)
+[18Jan2025 23:46:16.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[18Jan2025 23:46:16.821] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[18Jan2025 23:46:17.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 burned to death
+[18Jan2025 23:50:03.248] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[18Jan2025 23:50:03.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[18Jan2025 23:50:11.470] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:50239] logged in with entity id 75390 at (78.63986811769847, 70.25220334025373, 1055.354083104614)
+[18Jan2025 23:50:11.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[18Jan2025 23:50:11.565] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[18Jan2025 23:51:20.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=173, y=120, z=1070} BlockPos{x=172, y=118, z=1069}
+[18Jan2025 23:51:20.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=173, y=120, z=1070} BlockPos{x=172, y=118, z=1069}
+[18Jan2025 23:51:20.398] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=173, y=120, z=1070} BlockPos{x=172, y=118, z=1069}
+[18Jan2025 23:51:20.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=119, z=1070} BlockPos{x=171, y=118, z=1068}
+[18Jan2025 23:51:20.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=171, y=119, z=1070} BlockPos{x=171, y=118, z=1068}
+[18Jan2025 23:51:24.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=173, y=120, z=1063} BlockPos{x=172, y=118, z=1061}
+[18Jan2025 23:51:24.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=173, y=120, z=1063} BlockPos{x=172, y=118, z=1061}
+[18Jan2025 23:51:24.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=173, y=120, z=1063} BlockPos{x=172, y=118, z=1061}
+[18Jan2025 23:51:24.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=173, y=120, z=1063} BlockPos{x=172, y=118, z=1061}
+[18Jan2025 23:51:37.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=144, y=120, z=1106} BlockPos{x=145, y=118, z=1108}
+[18Jan2025 23:51:37.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=144, y=120, z=1106} BlockPos{x=145, y=118, z=1108}
+[18Jan2025 23:51:37.236] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=144, y=120, z=1106} BlockPos{x=145, y=118, z=1108}
+[18Jan2025 23:51:39.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=147, y=120, z=1116} BlockPos{x=148, y=118, z=1118}
+[18Jan2025 23:51:39.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=147, y=120, z=1116} BlockPos{x=148, y=118, z=1118}
+[18Jan2025 23:51:54.909] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=104, z=1123} BlockPos{x=105, y=102, z=1123}
+[18Jan2025 23:52:08.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=98, y=88, z=1088} BlockPos{x=98, y=87, z=1087}
+[18Jan2025 23:52:53.354] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[18Jan2025 23:52:53.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[18Jan2025 23:53:00.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:41447] logged in with entity id 76426 at (105.00836723134425, 103.0, 1122.6693577375704)
+[18Jan2025 23:53:00.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[18Jan2025 23:53:00.482] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[18Jan2025 23:54:02.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[18Jan2025 23:54:02.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[18Jan2025 23:54:06.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[18Jan2025 23:54:06.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[18Jan2025 23:54:12.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:48495] logged in with entity id 76650 at (109.01673407489712, 104.0, 1126.8673506848584)
+[18Jan2025 23:54:12.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[18Jan2025 23:54:12.810] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[18Jan2025 23:55:38.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=144, y=119, z=1114} BlockPos{x=145, y=118, z=1114}
+[18Jan2025 23:56:58.481] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.15.68.150:50363] logged in with entity id 77977 at (151.8196929298289, 119.0, 1119.8547545872448)
+[18Jan2025 23:56:58.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[18Jan2025 23:56:58.570] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[18Jan2025 23:57:41.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was shot by Skeleton
+[18Jan2025 23:58:33.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-319, y=71, z=63} BlockPos{x=-320, y=69, z=64}
+[18Jan2025 23:59:31.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-550, y=71, z=244} BlockPos{x=-548, y=70, z=244}

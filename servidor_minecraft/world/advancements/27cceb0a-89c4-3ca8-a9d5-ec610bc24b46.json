@@ -405,6 +405,7 @@
       "apple": "2025-01-08 15:07:55 +0000",
       "autumnity:cooked_turkey_piece": "2025-01-08 18:38:21 +0000",
       "pumpkin_pie": "2025-01-17 01:23:47 +0000",
+      "golden_carrot": "2025-01-18 23:31:22 +0000",
       "autumnity:pumpkin_bread": "2025-01-09 19:40:26 +0000",
       "neapolitan:banana": "2025-01-12 19:04:52 +0000",
       "potato": "2025-01-18 00:34:06 +0000",
@@ -807,6 +808,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-01-12 19:04:05 +0000",
+      "entered_stables": "2025-01-18 23:51:42 +0000",
       "entered_pirate_ship": "2025-01-12 17:53:54 +0000",
       "entered_druid_circle": "2025-01-16 23:08:44 +0000",
       "entered_watch_tower": "2025-01-17 02:21:09 +0000",
@@ -1009,6 +1011,12 @@
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-01-18 21:34:45 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-01-18 23:30:23 +0000"
     },
     "done": true
   },
