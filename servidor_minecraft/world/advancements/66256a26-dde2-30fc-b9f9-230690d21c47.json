@@ -1160,18 +1160,18 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:dark_blacksmith": {
+    "criteria": {
+      "dark_blacksmith_0": "2025-01-19 00:17:50 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
       "squireofthe_dark_lord_6": "2025-01-19 00:23:02 +0000",
       "squireofthe_dark_lord_0": "2025-01-19 00:17:51 +0000"
     },
     "done": false
-  },
-  "born_in_chaos_v1:dark_blacksmith": {
-    "criteria": {
-      "dark_blacksmith_0": "2025-01-19 00:17:50 +0000"
-    },
-    "done": true
   },
   "born_in_chaos_v1:protectedby_darkness": {
     "criteria": {

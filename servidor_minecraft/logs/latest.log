@@ -56,3 +56,24 @@
 [19Jan2025 00:48:14.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
 [19Jan2025 00:48:14.801] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
 [19Jan2025 00:51:44.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has reached the goal [Dark Blacksmith]
+[19Jan2025 00:54:18.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has made the advancement [Magery]
+[19Jan2025 00:56:45.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Nightmare Stalker
+[19Jan2025 00:56:52.678] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: 789123[/127.227.143.146:51957] logged in with entity id 101926 at (521.5, 66.0, 3609.5)
+[19Jan2025 00:56:52.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 joined the game
+[19Jan2025 00:56:52.698] [Server thread/INFO] [Jade/]: Syncing config to 789123 (8dee5df8-aa2c-3636-ba39-85e868cf3747)
+[19Jan2025 00:57:44.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Nightmare Stalker
+[19Jan2025 00:59:37.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Nightmare Stalker
+[19Jan2025 00:59:47.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <789123> zzz
+[19Jan2025 00:59:53.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Nightmare Stalker
+[19Jan2025 01:00:20.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was toasted by davisdrt's flaming breath
+[19Jan2025 01:00:52.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Nightmare Stalker
+[19Jan2025 01:00:52.317] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[19Jan2025 01:00:52.317] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[19Jan2025 01:00:52.317] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[19Jan2025 01:00:52.318] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[19Jan2025 01:00:52.318] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[19Jan2025 01:01:19.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Nightmare Stalker
+[19Jan2025 01:01:27.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by Nightmare Stalker
+[19Jan2025 01:01:42.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19Jan2025 01:02:14.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 789123 drowned
+[19Jan2025 01:02:26.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
