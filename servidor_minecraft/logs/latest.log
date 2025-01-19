@@ -13,3 +13,6 @@
 [19Jan2025 00:06:43.599] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Tesha'/82797, l='ServerLevel[world]', x=-500.23, y=-23.00, z=614.30] died: Tesha was slain by Vampire
 [19Jan2025 00:06:52.643] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hildegard'/82776, l='ServerLevel[world]', x=-496.00, y=-22.77, z=626.30] died, message: 'Hildegard was slain by Vampire'
 [19Jan2025 00:06:52.643] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Hildegard'/82776, l='ServerLevel[world]', x=-496.00, y=-22.77, z=626.30] died: Hildegard was slain by Vampire
+[19Jan2025 00:14:35.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Dark Forging]
+[19Jan2025 00:17:15.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-326, y=81, z=-33} BlockPos{x=-326, y=82, z=-33}
+[19Jan2025 00:17:50.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has reached the goal [Dark Blacksmith]
