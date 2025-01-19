@@ -1173,5 +1173,11 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:protectedby_darkness": {
+    "criteria": {
+      "protectedby_darkness_0": "2025-01-19 00:33:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
