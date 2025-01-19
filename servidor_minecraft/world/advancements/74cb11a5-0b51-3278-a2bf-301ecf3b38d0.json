@@ -838,6 +838,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-01-19 01:07:22 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-01-19 00:43:20 +0000"
