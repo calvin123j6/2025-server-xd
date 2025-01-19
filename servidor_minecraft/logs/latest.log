@@ -38,3 +38,21 @@
 [19Jan2025 00:41:37.180] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Gertie'/93822, l='ServerLevel[world]', x=337.70, y=82.94, z=1146.44] died, message: 'Gertie was slain by The Hunter'
 [19Jan2025 00:41:37.181] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Gertie'/93822, l='ServerLevel[world]', x=337.70, y=82.94, z=1146.44] died: Gertie was slain by The Hunter
 [19Jan2025 00:41:37.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2838ms or 56 ticks behind
+[19Jan2025 00:41:55.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3446ms or 68 ticks behind
+[19Jan2025 00:42:15.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5023ms or 100 ticks behind
+[19Jan2025 00:42:32.770] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19Jan2025 00:43:02.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[19Jan2025 00:43:18.055] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19Jan2025 00:43:20.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has completed the challenge [Free Willy]
+[19Jan2025 00:45:01.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[19Jan2025 00:45:01.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[19Jan2025 00:45:12.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.15.68.150:57589] logged in with entity id 99128 at (-325.2574316630378, 67.0, -34.45429754702833)
+[19Jan2025 00:45:12.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[19Jan2025 00:45:12.642] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[19Jan2025 00:47:01.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt was slain by kevin123j2
+[19Jan2025 00:47:34.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Timed out
+[19Jan2025 00:47:34.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[19Jan2025 00:48:14.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:55359] logged in with entity id 100165 at (-259.49779523141837, 60.875, -7.1855682308540185)
+[19Jan2025 00:48:14.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[19Jan2025 00:48:14.801] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[19Jan2025 00:51:44.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davisdrt has reached the goal [Dark Blacksmith]
