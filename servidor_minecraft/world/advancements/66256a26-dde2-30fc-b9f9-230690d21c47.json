@@ -407,6 +407,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2025-01-12 23:39:30 +0000",
+      "baked_potato": "2025-01-19 01:39:32 +0000",
       "suspicious_stew": "2025-01-12 15:26:05 +0000",
       "neapolitan:strawberry_scones": "2025-01-08 16:26:23 +0000",
       "rabbit_stew": "2025-01-08 21:04:58 +0000",
