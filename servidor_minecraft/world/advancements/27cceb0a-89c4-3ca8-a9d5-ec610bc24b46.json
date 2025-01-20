@@ -1031,6 +1031,7 @@
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
+      "squireofthe_dark_lord_6": "2025-01-20 21:53:08 +0000",
       "squireofthe_dark_lord_0": "2025-01-19 01:06:27 +0000"
     },
     "done": false
@@ -1038,6 +1039,18 @@
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2025-01-20 21:13:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-01-20 21:50:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-01-20 21:53:08 +0000"
     },
     "done": true
   },
