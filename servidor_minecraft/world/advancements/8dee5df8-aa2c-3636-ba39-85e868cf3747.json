@@ -307,6 +307,7 @@
       "atmospheric:atmospheric:aspen_parkland": "2025-01-18 20:00:19 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-18 01:41:42 +0000",
       "minecraft:snowy_beach": "2025-01-17 02:35:20 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-20 01:05:08 +0000",
       "minecraft:flower_forest": "2025-01-09 23:21:16 +0000",
       "environmental:environmental:marsh": "2025-01-19 01:11:19 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-17 02:05:10 +0000",
@@ -645,6 +646,7 @@
     "criteria": {
       "entered_tower_of_the_undead": "2025-01-18 01:54:04 +0000",
       "entered_stables": "2025-01-11 00:11:40 +0000",
+      "entered_pirate_ship": "2025-01-20 01:07:40 +0000",
       "entered_druid_circle": "2025-01-19 02:19:19 +0000",
       "entered_watch_tower": "2025-01-18 01:07:30 +0000",
       "entered_ruined_building": "2025-01-16 23:49:24 +0000"
@@ -962,6 +964,12 @@
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2025-01-18 20:32:22 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:ahoy": {
+    "criteria": {
+      "entered_pirate_ship": "2025-01-20 01:07:40 +0000"
     },
     "done": true
   },
