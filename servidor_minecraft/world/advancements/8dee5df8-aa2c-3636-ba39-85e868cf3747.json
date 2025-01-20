@@ -429,7 +429,8 @@
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
       "locate_shipwreck": "2025-01-18 20:44:28 +0000",
-      "locate_underwater_small_ruins": "2025-01-07 23:33:01 +0000"
+      "locate_underwater_small_ruins": "2025-01-07 23:33:01 +0000",
+      "locate_underwater_warm_small_ruins": "2025-01-20 01:19:26 +0000"
     },
     "done": false
   },
@@ -649,6 +650,7 @@
       "entered_pirate_ship": "2025-01-20 01:07:40 +0000",
       "entered_druid_circle": "2025-01-19 02:19:19 +0000",
       "entered_watch_tower": "2025-01-18 01:07:30 +0000",
+      "entered_sunken_shrine": "2025-01-20 01:17:01 +0000",
       "entered_ruined_building": "2025-01-16 23:49:24 +0000"
     },
     "done": false
