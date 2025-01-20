@@ -11008,3 +11008,26 @@ Caused by: java.io.IOException: Invalid tag id: 115
 [20Jan2025 23:09:00.887] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
 [20Jan2025 23:20:00.541] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Joan'/65807, l='ServerLevel[world]', x=-918.59, y=63.00, z=4127.70] died, message: 'Joan was shot by Pillager'
 [20Jan2025 23:20:00.542] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Joan'/65807, l='ServerLevel[world]', x=-918.59, y=63.00, z=4127.70] died: Joan was shot by Pillager
+[20Jan2025 23:21:02.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has completed the challenge [Premium!]
+[20Jan2025 23:21:02.549] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class com.pikachu.mod.illager_more.CombatEvent
+[20Jan2025 23:25:22.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Vex
+[20Jan2025 23:25:33.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was killed by Witch using magic
+[20Jan2025 23:27:08.038] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Jan2025 23:27:08.038] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Jan2025 23:27:53.157] [Worker-Main-32/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[20Jan2025 23:27:53.157] [Worker-Main-32/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[20Jan2025 23:27:53.157] [Worker-Main-32/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[20Jan2025 23:27:53.158] [Worker-Main-32/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[20Jan2025 23:30:10.338] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[20Jan2025 23:30:10.339] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[20Jan2025 23:30:10.347] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[20Jan2025 23:30:10.348] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[20Jan2025 23:30:10.349] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[20Jan2025 23:30:10.350] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[20Jan2025 23:30:10.350] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[20Jan2025 23:30:10.351] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[20Jan2025 23:30:26.133] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[20Jan2025 23:30:26.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game
+[20Jan2025 23:30:40.565] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.15.68.150:38407] logged in with entity id 77344 at (-925.3310175603565, 63.0, 4347.919303887578)
+[20Jan2025 23:30:40.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[20Jan2025 23:30:40.590] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
