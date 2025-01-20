@@ -10983,3 +10983,28 @@ Caused by: java.io.IOException: Invalid tag id: 115
 	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
 	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23463!/:?]
 	... 45 more
+[20Jan2025 22:44:35.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-667, y=88, z=3513} BlockPos{x=-667, y=87, z=3512}
+[20Jan2025 22:47:27.599] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 book
+[20Jan2025 22:47:59.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Local Brewery]
+[20Jan2025 22:50:35.974] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[20Jan2025 22:51:20.416] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-63, y=63, z=-4}
+[20Jan2025 22:52:01.659] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[20Jan2025 22:52:01.659] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[20Jan2025 22:52:01.659] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[20Jan2025 22:52:01.660] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[20Jan2025 23:00:48.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq overheated to death
+[20Jan2025 23:01:47.865] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-115}
+[20Jan2025 23:01:55.204] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=11, y=-12, z=-116}
+[20Jan2025 23:01:55.640] [Worker-Main-32/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[20Jan2025 23:03:24.498] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=22, y=-11, z=-129}
+[20Jan2025 23:03:24.499] [Worker-Main-32/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=21, y=-11, z=-129}
+[20Jan2025 23:04:13.466] [Worker-Main-32/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[20Jan2025 23:04:13.466] [Worker-Main-32/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[20Jan2025 23:08:04.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Vex
+[20Jan2025 23:08:48.994] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[20Jan2025 23:08:48.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[20Jan2025 23:09:00.815] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.192.14.200:47649] logged in with entity id 70914 at (-917.0598984817235, 76.0, 4106.2160777315075)
+[20Jan2025 23:09:00.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[20Jan2025 23:09:00.887] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)
+[20Jan2025 23:20:00.541] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Joan'/65807, l='ServerLevel[world]', x=-918.59, y=63.00, z=4127.70] died, message: 'Joan was shot by Pillager'
+[20Jan2025 23:20:00.542] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Joan'/65807, l='ServerLevel[world]', x=-918.59, y=63.00, z=4127.70] died: Joan was shot by Pillager
