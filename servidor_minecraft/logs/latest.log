@@ -10688,3 +10688,45 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Jun2025 02:22:58.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis was shot by Jos3enriq
 [25Jun2025 02:23:11.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved wrongly!
 [25Jun2025 02:23:12.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved wrongly!
+[25Jun2025 02:23:21.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by davis
+[25Jun2025 02:23:53.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis was shot by davis
+[25Jun2025 02:24:13.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis was slain by Jos3enriq
+[25Jun2025 02:24:29.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis was slain by Jos3enriq
+[25Jun2025 02:25:13.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis was shot by Jos3enriq
+[25Jun2025 02:25:46.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis was shot by Jos3enriq
+[25Jun2025 02:28:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[25Jun2025 02:28:26.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis died
+[25Jun2025 02:29:27.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis has made the advancement [Mine? Mine? Mine?]
+[25Jun2025 02:29:38.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis was slain by Nightmare Stalker
+[25Jun2025 02:29:57.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis was slain by Zombie Bruiser
+[25Jun2025 02:30:06.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[25Jun2025 02:30:09.576] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Enid'/33066, l='ServerLevel[world]', x=-329.51, y=63.00, z=-29.30] died, message: 'Enid hit the ground too hard'
+[25Jun2025 02:30:09.576] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Enid'/33066, l='ServerLevel[world]', x=-329.51, y=63.00, z=-29.30] died: Enid fell off a ladder
+[25Jun2025 02:30:30.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq tried to swim in lava
+[25Jun2025 02:31:30.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[25Jun2025 02:31:31.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis was slain by Nightmare Stalker
+[25Jun2025 02:31:59.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was squashed by a falling anvil
+[25Jun2025 02:32:40.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis was slain by Nightmare Stalker
+[25Jun2025 02:34:24.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis has made the advancement [Hunt and Gather]
+[25Jun2025 02:34:37.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis was slain by Nightmare Stalker
+[25Jun2025 02:35:04.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[25Jun2025 02:36:31.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis was slain by Jos3enriq
+[25Jun2025 02:38:52.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.281970041048814
+[25Jun2025 02:38:52.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Tormenta china (vehicle of Jos3enriq) moved wrongly! 0.2872726951639434
+[25Jun2025 02:38:57.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis was slain by Corpse Fish
+[25Jun2025 02:39:31.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[25Jun2025 02:39:56.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[25Jun2025 02:40:07.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25Jun2025 02:40:07.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: k<--[HERE]
+[25Jun2025 02:44:41.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Nightmare Stalker
+[25Jun2025 02:45:22.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis drowned
+[25Jun2025 02:48:36.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis tried to swim in lava
+[25Jun2025 02:49:26.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq tried to swim in lava
+[25Jun2025 02:50:18.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis was slain by Skeleton Thrasher
+[25Jun2025 02:50:39.007] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davis lost connection: Disconnected
+[25Jun2025 02:50:39.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis left the game
+[25Jun2025 02:55:09.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by The Moonflower
+[25Jun2025 02:55:37.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq died
+[25Jun2025 02:55:57.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by The Moonflower
+[25Jun2025 02:56:01.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq lost connection: Disconnected
+[25Jun2025 02:56:01.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq left the game

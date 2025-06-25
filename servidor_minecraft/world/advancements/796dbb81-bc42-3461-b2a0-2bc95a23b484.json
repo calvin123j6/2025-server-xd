@@ -279,6 +279,7 @@
     "criteria": {
       "minecraft:beach": "2025-06-25 01:39:44 +0000",
       "minecraft:river": "2025-06-25 01:53:32 +0000",
+      "minecraft:ocean": "2025-06-25 02:38:34 +0000",
       "minecraft:plains": "2025-06-25 01:34:47 +0000",
       "autumnity:autumnity:pumpkin_fields": "2025-06-25 01:35:41 +0000"
     },
@@ -377,6 +378,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "neapolitan:strawberries": "2025-06-25 02:41:16 +0000",
       "cooked_beef": "2025-06-25 02:01:25 +0000"
     },
     "done": false
@@ -492,6 +494,24 @@
   "immersive_armors:recipes/misc/bone": {
     "criteria": {
       "has_item": "2025-06-25 02:14:03 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-06-25 02:34:45 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-06-25 02:29:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "iron_knife": "2025-06-25 02:34:24 +0000"
     },
     "done": true
   },
