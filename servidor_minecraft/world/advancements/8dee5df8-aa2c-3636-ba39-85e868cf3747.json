@@ -288,6 +288,8 @@
       "minecraft:beach": "2025-01-07 23:15:12 +0000",
       "environmental:environmental:blossom_woods": "2025-01-17 02:09:49 +0000",
       "minecraft:dark_forest": "2025-01-17 02:05:46 +0000",
+      "minecraft:mangrove_swamp": "2025-02-07 21:07:53 +0000",
+      "minecraft:sparse_jungle": "2025-02-07 00:49:11 +0000",
       "minecraft:river": "2025-01-07 23:16:30 +0000",
       "atmospheric:atmospheric:laurel_forest": "2025-01-17 02:09:35 +0000",
       "minecraft:lukewarm_ocean": "2025-01-20 01:02:26 +0000",
@@ -295,6 +297,8 @@
       "minecraft:snowy_plains": "2025-01-16 23:28:20 +0000",
       "minecraft:dripstone_caves": "2025-01-13 00:07:10 +0000",
       "minecraft:snowy_taiga": "2025-01-16 23:54:43 +0000",
+      "atmospheric:atmospheric:rainforest_basin": "2025-02-07 20:29:14 +0000",
+      "atmospheric:atmospheric:rainforest": "2025-02-07 20:03:54 +0000",
       "minecraft:swamp": "2025-01-19 01:08:09 +0000",
       "minecraft:cold_ocean": "2025-01-18 19:42:49 +0000",
       "minecraft:forest": "2025-01-07 23:32:08 +0000",
@@ -304,14 +308,17 @@
       "minecraft:frozen_ocean": "2025-01-17 02:34:11 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-17 02:34:26 +0000",
       "minecraft:ocean": "2025-01-07 23:15:47 +0000",
+      "minecraft:jungle": "2025-02-07 00:59:59 +0000",
       "atmospheric:atmospheric:aspen_parkland": "2025-01-18 20:00:19 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-18 01:41:42 +0000",
       "minecraft:snowy_beach": "2025-01-17 02:35:20 +0000",
+      "minecraft:windswept_savanna": "2025-02-07 20:30:47 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-01-20 01:05:08 +0000",
       "minecraft:flower_forest": "2025-01-09 23:21:16 +0000",
       "environmental:environmental:marsh": "2025-01-19 01:11:19 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-17 02:05:10 +0000",
       "minecraft:meadow": "2025-01-13 00:04:07 +0000",
+      "minecraft:savanna": "2025-02-04 16:49:14 +0000",
       "minecraft:plains": "2025-01-07 23:12:30 +0000",
       "autumnity:autumnity:pumpkin_fields": "2025-01-09 22:28:29 +0000"
     },
@@ -343,6 +350,7 @@
       "minecraft:spider": "2025-01-10 01:06:09 +0000",
       "minecraft:creeper": "2025-01-16 01:18:18 +0000",
       "minecraft:slime": "2025-01-11 23:12:46 +0000",
+      "minecraft:evoker": "2025-02-05 01:21:21 +0000",
       "minecraft:cave_spider": "2025-01-10 02:11:44 +0000",
       "minecraft:stray": "2025-01-11 23:08:05 +0000",
       "minecraft:silverfish": "2025-01-16 00:13:32 +0000",
@@ -367,25 +375,30 @@
       "neapolitan:strawberry_scones": "2025-01-20 00:43:13 +0000",
       "abnormals_delight:tomato": "2025-01-14 00:01:37 +0000",
       "melon_slice": "2025-01-09 23:24:41 +0000",
+      "cooked_rabbit": "2025-02-03 15:39:21 +0000",
       "neapolitan:strawberries": "2025-01-07 23:25:29 +0000",
       "cooked_porkchop": "2025-01-16 23:11:23 +0000",
       "cooked_beef": "2025-01-09 23:28:16 +0000",
       "mutton": "2025-01-10 02:18:45 +0000",
+      "cooked_chicken": "2025-02-07 15:17:50 +0000",
       "cooked_mutton": "2025-01-11 23:47:24 +0000",
       "apple": "2025-01-10 02:07:33 +0000",
       "pumpkin_pie": "2025-01-10 23:18:03 +0000",
       "golden_carrot": "2025-01-18 19:39:26 +0000",
       "honey_bottle": "2025-01-19 01:52:28 +0000",
+      "cookie": "2025-02-07 00:14:09 +0000",
       "upgrade_aquatic:cooked_lionfish": "2025-01-09 22:26:11 +0000",
       "potato": "2025-01-16 01:29:21 +0000",
       "abnormals_delight:bacon_and_eggs": "2025-01-14 01:59:35 +0000",
       "bread": "2025-01-07 23:17:38 +0000",
       "golden_apple": "2025-01-18 02:10:04 +0000",
       "rotten_flesh": "2025-01-09 22:48:51 +0000",
+      "dried_kelp": "2025-02-07 20:45:35 +0000",
       "environmental:plum": "2025-01-17 02:12:14 +0000",
       "cod": "2025-01-16 22:57:03 +0000",
       "cooked_salmon": "2025-01-20 01:51:10 +0000",
       "porkchop": "2025-01-10 23:57:24 +0000",
+      "glow_berries": "2025-02-07 00:42:13 +0000",
       "sweet_berries": "2025-01-17 01:27:33 +0000",
       "carrot": "2025-01-07 23:47:32 +0000"
     },
@@ -431,7 +444,8 @@
     "criteria": {
       "locate_shipwreck": "2025-01-18 20:44:28 +0000",
       "locate_underwater_small_ruins": "2025-01-07 23:33:01 +0000",
-      "locate_underwater_warm_small_ruins": "2025-01-20 01:19:26 +0000"
+      "locate_underwater_warm_small_ruins": "2025-01-20 01:19:26 +0000",
+      "locate_ruin_cold": "2025-02-04 17:03:57 +0000"
     },
     "done": false
   },
@@ -493,7 +507,8 @@
     "criteria": {
       "sandy_dirt": "2025-01-09 23:04:45 +0000",
       "dirt": "2025-01-09 22:18:25 +0000",
-      "silt": "2025-01-19 01:23:28 +0000"
+      "silt": "2025-01-19 01:23:28 +0000",
+      "earthen_clay": "2025-02-04 16:57:57 +0000"
     },
     "done": false
   },
@@ -596,7 +611,9 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "glow_berries": "2025-02-07 01:08:37 +0000",
       "sweet_berries": "2025-01-17 01:27:48 +0000",
+      "red_mushroom": "2025-02-07 19:19:38 +0000",
       "wheat": "2025-01-10 01:41:58 +0000"
     },
     "done": false
@@ -627,6 +644,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-02-05 00:04:39 +0000",
       "in_better_spider_dungeon": "2025-01-10 23:35:16 +0000",
       "in_better_monster_room": "2025-01-11 00:39:12 +0000"
     },
@@ -649,6 +667,7 @@
       "entered_tower_of_the_undead": "2025-01-18 01:54:04 +0000",
       "entered_stables": "2025-01-11 00:11:40 +0000",
       "entered_pirate_ship": "2025-01-20 01:07:40 +0000",
+      "entered_fishing_ship": "2025-02-03 19:25:57 +0000",
       "entered_druid_circle": "2025-01-19 02:19:19 +0000",
       "entered_watch_tower": "2025-01-18 01:07:30 +0000",
       "entered_sunken_shrine": "2025-01-20 01:17:01 +0000",
@@ -671,6 +690,7 @@
   "quark:get_all_corundum": {
     "criteria": {
       "black": "2025-01-11 00:59:55 +0000",
+      "yellow": "2025-02-07 20:08:32 +0000",
       "indigo": "2025-01-11 01:00:01 +0000"
     },
     "done": false
@@ -973,6 +993,84 @@
   "dungeons_enhanced:ahoy": {
     "criteria": {
       "entered_pirate_ship": "2025-01-20 01:07:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-02-03 19:10:16 +0000"
+    },
+    "done": false
+  },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2025-02-03 19:12:06 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_warped_garden": {
+    "criteria": {
+      "in_structure": "2025-02-03 19:28:52 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:devillhunter": {
+    "criteria": {
+      "devillhunter_0": "2025-02-04 17:02:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2025-02-04 17:20:29 +0000"
+    },
+    "done": true
+  },
+  "beachparty:sand_bucket_block": {
+    "criteria": {
+      "has_wooden_shovel": "2025-02-04 17:57:35 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-02-05 00:04:39 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/all_mineshaft": {
+    "criteria": {
+      "locate_oak_mineshaft": "2025-02-07 00:38:42 +0000"
+    },
+    "done": false
+  },
+  "hopo:minecraft/adventure/locate_mineshaft": {
+    "criteria": {
+      "locate_oak_mineshaft": "2025-02-07 00:38:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-02-07 01:47:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-02-07 15:16:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-02-07 19:10:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-02-07 19:50:15 +0000"
     },
     "done": true
   },
