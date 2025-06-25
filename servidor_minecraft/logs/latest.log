@@ -10672,3 +10672,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Jun2025 02:11:59.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis has made the advancement [Ol' Betsy]
 [25Jun2025 02:12:33.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis was slain by Decrepit Skeleton
 [25Jun2025 02:12:57.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by Corpse Fish
+[25Jun2025 02:13:24.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis has made the advancement [Diamonds!]
+[25Jun2025 02:13:31.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis has made the advancement [Cover Me with Diamonds]
+[25Jun2025 02:15:41.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis was slain by The Moonflower
+[25Jun2025 02:20:37.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq was slain by davis
+[25Jun2025 02:20:58.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis went up in flames
+[25Jun2025 02:21:51.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis tried to swim in lava
+[25Jun2025 02:22:44.148] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: davis lost connection: Disconnected
+[25Jun2025 02:22:44.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis left the game
+[25Jun2025 02:22:54.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: davis[/127.215.198.66:36893] logged in with entity id 30079 at (-310.1104682675112, 67.0, 28.85040632679279)
+[25Jun2025 02:22:54.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis joined the game
+[25Jun2025 02:22:54.647] [Server thread/INFO] [Jade/]: Syncing config to davis (796dbb81-bc42-3461-b2a0-2bc95a23b484)
+[25Jun2025 02:22:55.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25Jun2025 02:22:55.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: k<--[HERE]
+[25Jun2025 02:22:58.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davis was shot by Jos3enriq
+[25Jun2025 02:23:11.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved wrongly!
+[25Jun2025 02:23:12.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jos3enriq moved wrongly!
