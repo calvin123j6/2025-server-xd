@@ -10499,3 +10499,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Jun2025 00:58:38.321] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
 [25Jun2025 00:58:47.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
 [25Jun2025 00:58:47.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[25Jun2025 01:16:09.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25Jun2025 01:16:09.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: no<--[HERE]
