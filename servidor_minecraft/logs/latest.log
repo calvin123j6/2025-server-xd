@@ -10967,3 +10967,184 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Jun2025 22:46:20.931] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [26Jun2025 22:46:20.954] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@76a58575[id=<null>,name=Jos3enriq,properties={},legacy=false] (/127.47.93.23:44519) lost connection: Connection closed - mismatched mod channel list
 [26Jun2025 22:46:50.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixdrt has made the advancement [Fishy Business]
+[26Jun2025 22:47:33.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[26Jun2025 22:48:15.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.35294537555184763
+[26Jun2025 22:48:16.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6871218344303083
+[26Jun2025 22:48:18.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7190849452953192
+[26Jun2025 22:48:18.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8201712796912699
+[26Jun2025 22:48:24.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8002626889864644
+[26Jun2025 22:48:24.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6463938784049839
+[26Jun2025 22:48:29.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7987701296986708
+[26Jun2025 22:48:31.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8303190403799873
+[26Jun2025 22:48:32.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.830479255513748
+[26Jun2025 22:48:33.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8304808862994804
+[26Jun2025 22:48:34.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8299802154041819
+[26Jun2025 22:48:36.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7306538559832019
+[26Jun2025 22:48:36.903] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6681584098117199
+[26Jun2025 22:48:38.507] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6516967090985445
+[26Jun2025 22:48:40.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8113040589057763
+[26Jun2025 22:48:41.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8243052538083678
+[26Jun2025 22:48:42.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8303650562934963
+[26Jun2025 22:48:43.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8304935321532532
+[26Jun2025 22:48:44.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8304715985072473
+[26Jun2025 22:48:45.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7630998178300296
+[26Jun2025 22:48:45.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8025189437451931
+[26Jun2025 22:48:47.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -1.9129832613247402,0.42668317806257505,10.613541002289821
+[26Jun2025 22:48:47.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -2.0556812711534036,0.4389163670393259,11.431250591454045
+[26Jun2025 22:48:47.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -2.17492203746869,0.44970603971682976,12.250246043114885
+[26Jun2025 22:48:47.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -2.3067999899593588,0.4592225310183835,13.068965707007237
+[26Jun2025 22:48:47.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -2.447292696809342,0.46761607634635993,13.888107874545767
+[26Jun2025 22:48:47.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -2.595383617004245,0.4750191833256281,14.70762269030024
+[26Jun2025 22:48:47.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -2.750176161369353,0.4815487236813425,15.527466181780937
+[26Jun2025 22:48:47.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -2.910879538252601,0.4873077782750812,16.347599565252494
+[26Jun2025 22:48:47.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -3.076796269416832,0.4923872644267675,17.1679886334598
+[26Jun2025 22:48:47.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -3.2473111790568936,0.4968673712125451,17.988603215603916
+[26Jun2025 22:48:47.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -3.421881682112641,0.5008188253976016,18.809416701040618
+[26Jun2025 22:48:47.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -3.6000292185610334,0.5043040079888215,19.630405619181147
+[26Jun2025 22:48:47.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -2.0155959291721643,0.0945645897435412,10.654961203900712
+[26Jun2025 22:48:47.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -2.199681069197794,0.0945645897435412,11.476241326996842
+[26Jun2025 22:48:58.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6340226565218752
+[26Jun2025 22:48:58.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7630183334896528
+[26Jun2025 22:49:00.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.811304080472642
+[26Jun2025 22:49:01.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.2606725573986322
+[26Jun2025 22:49:02.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7000464259511874
+[26Jun2025 22:49:03.110] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7908524435344365
+[26Jun2025 22:49:08.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6681647185337489
+[26Jun2025 22:49:25.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8150396444181083
+[26Jun2025 22:49:25.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6464452341835235
+[26Jun2025 22:49:26.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixdrt was slain by The Moonflower
+[26Jun2025 22:49:29.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.717853579770319
+[26Jun2025 22:49:29.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7892064469521606
+[26Jun2025 22:49:30.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.44722143982163604
+[26Jun2025 22:49:30.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.5287257189491492
+[26Jun2025 22:49:43.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7719436736248744
+[26Jun2025 22:49:46.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.3872194405658123
+[26Jun2025 22:49:47.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6873212646502209
+[26Jun2025 22:50:09.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jos3enriq[/127.47.93.23:37163] logged in with entity id 14258 at (-344.5, 74.6875, -2852.5)
+[26Jun2025 22:50:09.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq joined the game
+[26Jun2025 22:50:09.204] [Server thread/INFO] [Jade/]: Syncing config to Jos3enriq (27cceb0a-89c4-3ca8-a9d5-ec610bc24b46)
+[26Jun2025 22:50:10.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8192148724279971
+[26Jun2025 22:50:10.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8192148724279971
+[26Jun2025 22:50:10.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8192148724279971
+[26Jun2025 22:50:10.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8192148724279971
+[26Jun2025 22:50:10.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8192148724279971
+[26Jun2025 22:50:10.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8192148724279971
+[26Jun2025 22:50:10.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -1.0761416207553793,-5.5871514077714295,8.949594365052008
+[26Jun2025 22:50:10.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -1.1382774062232102,-5.423199273539993,9.771042980946618
+[26Jun2025 22:50:10.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -1.190300434997141,-5.176593488167626,10.593520937155404
+[26Jun2025 22:50:10.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -1.2334040123669752,-4.857087182488968,11.416906771521326
+[26Jun2025 22:50:10.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -1.268894222574204,-4.473282617900168,12.24110024710319
+[26Jun2025 22:50:10.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -1.2976694429439704,-4.032766988952616,13.066006062237534
+[26Jun2025 22:50:10.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -1.320522042277105,-3.542232201240637,13.891540160857176
+[26Jun2025 22:50:10.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -0.8272724585481797,1.092897747453037,10.670933318192397
+[26Jun2025 22:50:10.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved too quickly! -0.8402939570796661,1.6664605372578905,11.497510319647972
+[26Jun2025 22:50:10.774] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.829322675266738
+[26Jun2025 22:50:10.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.829322675266738
+[26Jun2025 22:50:11.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.830168271244966
+[26Jun2025 22:50:14.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[26Jun2025 22:50:14.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7780696585084842
+[26Jun2025 22:50:14.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8113040436793788
+[26Jun2025 22:50:14.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.821467552108131
+[26Jun2025 22:50:15.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8262522570625732
+[26Jun2025 22:50:18.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.26027522363877825
+[26Jun2025 22:50:18.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.26027522363877825
+[26Jun2025 22:50:19.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6758330432823025
+[26Jun2025 22:50:19.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.43272831450930693
+[26Jun2025 22:50:21.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.3395302005758829
+[26Jun2025 22:50:22.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.4396003623811329
+[26Jun2025 22:50:22.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.5049832346726076
+[26Jun2025 22:50:23.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.3146021330071233
+[26Jun2025 22:50:24.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6373103966003514
+[26Jun2025 22:50:25.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.3733670482387505
+[26Jun2025 22:50:27.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.3607051575920024
+[26Jun2025 22:50:27.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.3607051575920024
+[26Jun2025 22:50:28.283] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.31248958238822455
+[26Jun2025 22:50:28.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.412122621123885
+[26Jun2025 22:50:29.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.5819173707841817
+[26Jun2025 22:50:30.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.408116753104468
+[26Jun2025 22:50:31.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6987131611470528
+[26Jun2025 22:50:31.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.766667179620169
+[26Jun2025 22:50:31.590] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.766667179620169
+[26Jun2025 22:50:32.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3224ms or 64 ticks behind
+[26Jun2025 22:50:33.251] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7240419443180933
+[26Jun2025 22:50:33.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.569315303406854
+[26Jun2025 22:50:36.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.5622451647238351
+[26Jun2025 22:50:38.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7673382284694877
+[26Jun2025 22:50:39.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.80309039679479
+[26Jun2025 22:50:39.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.80309039679479
+[26Jun2025 22:50:40.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.5263550380612387
+[26Jun2025 22:50:41.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7537145575818406
+[26Jun2025 22:50:43.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[26Jun2025 22:50:45.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> zzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[26Jun2025 22:50:46.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> zzz
+[26Jun2025 22:50:47.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> zzz
+[26Jun2025 22:50:48.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.40308650070859775
+[26Jun2025 22:50:49.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6359432523654227
+[26Jun2025 22:50:50.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3276ms or 65 ticks behind
+[26Jun2025 22:50:51.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7438565108496973
+[26Jun2025 22:50:51.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jos3enriq> duerman
+[26Jun2025 22:50:59.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6463440645174172
+[26Jun2025 22:51:00.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.327904550657728
+[26Jun2025 22:51:01.321] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6681647259603866
+[26Jun2025 22:51:01.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7897151015621815
+[26Jun2025 22:51:03.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.48163246904513896
+[26Jun2025 22:51:06.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.4141033223608399
+[26Jun2025 22:51:07.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7617406368102045
+[26Jun2025 22:51:07.355] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7617406368102045
+[26Jun2025 22:51:10.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4902ms or 98 ticks behind
+[26Jun2025 22:51:10.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8023065719160026
+[26Jun2025 22:51:13.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8304795651717484
+[26Jun2025 22:51:17.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8305084877644967
+[26Jun2025 22:51:19.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8305084888613405
+[26Jun2025 22:51:19.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8305084888613405
+[26Jun2025 22:51:21.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6185869957635796
+[26Jun2025 22:51:22.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.4954531779402455
+[26Jun2025 22:51:24.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7679014684529101
+[26Jun2025 22:51:24.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8177485720276123
+[26Jun2025 22:51:25.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8353777573354538
+[26Jun2025 22:51:26.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8463852885496224
+[26Jun2025 22:51:27.846] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[26Jun2025 22:51:28.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7437972767499902
+[26Jun2025 22:51:28.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7437972767499902
+[26Jun2025 22:51:30.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.38133723417157434
+[26Jun2025 22:51:30.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.5579961000108543
+[26Jun2025 22:51:31.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.6301253247563181
+[26Jun2025 22:51:31.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.35287576465291787
+[26Jun2025 22:51:45.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[26Jun2025 22:51:50.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7987361970307343
+[26Jun2025 22:51:50.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7987361970307343
+[26Jun2025 22:51:51.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8289101991666218
+[26Jun2025 22:51:56.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8112488760283265
+[26Jun2025 22:51:58.121] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.3905152560661804
+[26Jun2025 22:51:58.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.3905152560661804
+[26Jun2025 22:52:00.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7364746705606122
+[26Jun2025 22:52:01.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8275138905564916
+[26Jun2025 22:52:04.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.830499180584196
+[26Jun2025 22:52:04.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.830499180584196
+[26Jun2025 22:52:04.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4161ms or 83 ticks behind
+[26Jun2025 22:52:04.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8305061631252428
+[26Jun2025 22:52:14.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.4109966958820814
+[26Jun2025 22:52:21.773] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2561ms or 51 ticks behind
+[26Jun2025 22:52:29.186] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.7601758402142096
+[26Jun2025 22:52:29.574] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of kevin123j2) moved wrongly! 0.8122362806630306
+[26Jun2025 22:52:41.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[26Jun2025 22:52:48.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: davixdrt has made the advancement [Acquire Hardware]
+[26Jun2025 22:52:59.334] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2822ms or 56 ticks behind
+[26Jun2025 22:53:19.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4719ms or 94 ticks behind
+[26Jun2025 22:53:30.489] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Wayne'/15389, l='ServerLevel[world]', x=-488.50, y=65.00, z=-2852.70] died: Wayne suffocated in a wall
+[26Jun2025 22:53:36.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[26Jun2025 22:53:55.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[26Jun2025 22:54:14.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3459ms or 69 ticks behind
+[26Jun2025 22:54:33.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4710ms or 94 ticks behind
+[26Jun2025 22:54:51.372] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2660ms or 53 ticks behind
+[26Jun2025 22:55:08.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2152ms or 43 ticks behind
+[26Jun2025 22:55:25.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2402ms or 48 ticks behind
+[26Jun2025 22:55:43.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2583ms or 51 ticks behind
+[26Jun2025 22:56:00.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[26Jun2025 22:56:13.369] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Raymundo'/14392, l='ServerLevel[world]', x=-370.83, y=69.56, z=-2859.29] died, message: 'Raymundo was slain by Zombie'
+[26Jun2025 22:56:13.371] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Raymundo'/14392, l='ServerLevel[world]', x=-370.83, y=69.56, z=-2859.29] died: Raymundo was slain by Zombie
+[26Jun2025 22:56:21.413] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[26Jun2025 22:56:43.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[26Jun2025 22:57:01.126] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2614ms or 52 ticks behind
+[26Jun2025 22:57:19.013] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2901ms or 58 ticks behind
+[26Jun2025 22:57:37.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind

@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-06-26 22:44:45 +0000"
+    },
+    "done": true
+  },
   "beachparty:sunglasses": {
     "criteria": {
       "has_the_recipe": "2025-06-26 22:39:38 +0000"
@@ -62,6 +68,12 @@
   "beachparty:chair": {
     "criteria": {
       "has_the_recipe": "2025-06-26 22:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-06-26 22:46:50 +0000"
     },
     "done": true
   },
@@ -149,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-06-26 22:52:48 +0000"
+    },
+    "done": true
+  },
   "beachparty:palm_stairs": {
     "criteria": {
       "has_the_recipe": "2025-06-26 22:39:38 +0000"
@@ -164,6 +182,12 @@
   "beachparty:palm_boat": {
     "criteria": {
       "has_the_recipe": "2025-06-26 22:39:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-26 22:44:45 +0000"
     },
     "done": true
   },
@@ -197,6 +221,12 @@
       "has_the_recipe": "2025-06-26 22:39:38 +0000"
     },
     "done": true
+  },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2025-06-26 22:49:48 +0000"
+    },
+    "done": false
   },
   "beachparty:palm_fence_gate": {
     "criteria": {
@@ -261,6 +291,12 @@
   "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2025-06-26 22:39:38 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:devillhunter": {
+    "criteria": {
+      "devillhunter_0": "2025-06-26 22:44:18 +0000"
     },
     "done": true
   },

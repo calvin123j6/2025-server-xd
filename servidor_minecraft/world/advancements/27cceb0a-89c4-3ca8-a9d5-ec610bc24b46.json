@@ -1314,5 +1314,23 @@
     },
     "done": true
   },
+  "legendary_monsters:end_root": {
+    "criteria": {
+      "custom_test_name": "2025-06-26 22:50:09 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2025-06-26 22:50:09 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2025-06-26 22:50:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
