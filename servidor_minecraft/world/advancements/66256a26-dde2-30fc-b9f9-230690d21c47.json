@@ -1472,15 +1472,33 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2025-02-07 20:39:49 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2025-02-07 20:49:58 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+  "legendary_monsters:end_root": {
     "criteria": {
-      "leafcutter_ant_pupa": "2025-02-07 20:39:49 +0000"
+      "custom_test_name": "2025-06-26 22:36:54 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2025-06-26 22:36:54 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2025-06-26 22:36:54 +0000"
     },
     "done": true
   },
