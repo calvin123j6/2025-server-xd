@@ -409,7 +409,6 @@
       "abnormals_delight:onion": "2025-01-18 19:56:34 +0000",
       "suspicious_stew": "2025-01-12 15:26:15 +0000",
       "neapolitan:strawberry_scones": "2025-01-08 15:33:18 +0000",
-      "abnormals_delight:tomato": "2025-06-25 02:52:37 +0000",
       "melon_slice": "2025-01-12 01:55:31 +0000",
       "cooked_rabbit": "2025-01-16 23:30:07 +0000",
       "neapolitan:strawberries": "2025-01-08 19:19:00 +0000",
@@ -1312,18 +1311,6 @@
   "born_in_chaos_v1:bypassingthe_expiration_date": {
     "criteria": {
       "bypassingthe_expiration_date_0": "2025-02-07 19:56:25 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_codex": {
-    "criteria": {
-      "cave_codex": "2025-06-25 02:07:38 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:devillhunter": {
-    "criteria": {
-      "devillhunter_0": "2025-06-25 02:10:50 +0000"
     },
     "done": true
   },
