@@ -195,6 +195,7 @@
       "minecraft:river": "2025-01-08 17:08:02 +0000",
       "atmospheric:atmospheric:laurel_forest": "2025-02-04 18:49:07 +0000",
       "minecraft:lukewarm_ocean": "2025-02-07 00:17:46 +0000",
+      "minecraft:stony_shore": "2025-06-26 23:10:52 +0000",
       "minecraft:dripstone_caves": "2025-01-18 21:40:24 +0000",
       "atmospheric:atmospheric:rainforest_basin": "2025-02-07 21:06:45 +0000",
       "atmospheric:atmospheric:rainforest": "2025-02-07 20:29:45 +0000",
@@ -208,6 +209,7 @@
       "minecraft:ocean": "2025-01-08 16:30:12 +0000",
       "minecraft:jungle": "2025-02-07 20:31:18 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-02-04 18:57:08 +0000",
+      "minecraft:windswept_savanna": "2025-06-26 23:08:03 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-07 00:18:12 +0000",
       "minecraft:flower_forest": "2025-01-08 17:51:29 +0000",
       "environmental:environmental:marsh": "2025-02-07 21:20:01 +0000",
@@ -377,16 +379,19 @@
       "melon_slice": "2025-01-11 21:49:47 +0000",
       "cooked_rabbit": "2025-01-08 16:04:30 +0000",
       "neapolitan:strawberries": "2025-01-08 22:33:37 +0000",
+      "atmospheric:passion_fruit": "2025-06-26 23:53:12 +0000",
       "cooked_chicken": "2025-02-07 15:29:38 +0000",
       "cooked_mutton": "2025-01-11 21:33:13 +0000",
       "apple": "2025-01-08 15:48:49 +0000",
       "golden_carrot": "2025-01-08 19:54:10 +0000",
+      "tropical_fish": "2025-06-26 23:51:04 +0000",
       "golden_apple": "2025-01-08 15:43:03 +0000",
       "bread": "2025-01-08 16:13:11 +0000",
       "rotten_flesh": "2025-01-09 20:28:51 +0000",
       "cod": "2025-02-06 22:17:25 +0000",
       "abnormals_delight:cake_slice": "2025-01-08 19:22:30 +0000",
       "abnormals_delight:pumpkin_slice": "2025-01-08 18:44:47 +0000",
+      "cooked_cod": "2025-06-26 23:50:34 +0000",
       "carrot": "2025-01-09 18:00:31 +0000"
     },
     "done": false
@@ -602,7 +607,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "illager_camp": "2025-01-08 19:16:41 +0000"
+      "illager_camp": "2025-01-08 19:16:41 +0000",
+      "mansion": "2025-06-27 00:35:37 +0000"
     },
     "done": false
   },
@@ -1082,6 +1088,66 @@
       "yellow": "2025-02-07 20:42:22 +0000"
     },
     "done": false
+  },
+  "legendary_monsters:end_root": {
+    "criteria": {
+      "custom_test_name": "2025-06-26 23:04:49 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2025-06-26 23:04:49 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2025-06-26 23:04:49 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-06-26 23:12:42 +0000"
+    },
+    "done": true
+  },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-06-26 23:45:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-06-26 23:51:42 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:husbandry/spit_passion_fruit": {
+    "criteria": {
+      "spit_passion_fruit": "2025-06-26 23:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2025-06-27 00:23:42 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_illager_mansion": {
+    "criteria": {
+      "minecraft:woodland_mansion": "2025-06-27 00:35:37 +0000"
+    },
+    "done": true
+  },
+  "sniffsweapons:recipes/decoration/surcoat_armor_trim_smithing_template": {
+    "criteria": {
+      "has_smithing_template": "2025-06-27 00:40:14 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

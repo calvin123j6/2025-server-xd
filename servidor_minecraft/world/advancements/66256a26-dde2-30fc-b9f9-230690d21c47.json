@@ -518,7 +518,8 @@
       "locate_shipwreck": "2025-01-08 20:44:03 +0000",
       "locate_underwater_fossil": "2025-01-10 02:31:31 +0000",
       "locate_underwater_small_ruins": "2025-01-08 16:30:10 +0000",
-      "locate_ruin_cold": "2025-01-08 15:25:32 +0000"
+      "locate_ruin_cold": "2025-01-08 15:25:32 +0000",
+      "locate_underwater_warm_small_ruins": "2025-06-26 23:29:22 +0000"
     },
     "done": false
   },
@@ -696,6 +697,7 @@
       "swamp_village": "2025-01-18 01:32:04 +0000",
       "pillager_outpost": "2025-01-16 23:36:29 +0000",
       "illager_camp": "2025-01-08 18:51:33 +0000",
+      "mangrove_witch_hut": "2025-06-26 23:42:09 +0000",
       "mansion": "2025-01-09 18:55:41 +0000"
     },
     "done": false
@@ -1499,6 +1501,36 @@
   "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2025-06-26 22:36:54 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:root": {
+    "criteria": {
+      "rottencreatures:swampy": "2025-06-26 23:45:26 +0000"
+    },
+    "done": true
+  },
+  "rottencreatures:kill_all_rot": {
+    "criteria": {
+      "rottencreatures:swampy": "2025-06-26 23:45:26 +0000"
+    },
+    "done": false
+  },
+  "knightquest:knightquest": {
+    "criteria": {
+      "requirement": "2025-06-27 00:56:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-06-27 01:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-06-27 01:46:56 +0000"
     },
     "done": true
   },
